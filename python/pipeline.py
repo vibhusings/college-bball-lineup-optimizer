@@ -1,9 +1,9 @@
 """
-Main pipeline orchestrator — fetches data, profiles players, scores lineups.
+Main pipeline orchestrator — generates seed data, profiles players, scores lineups.
 
 Usage:
-    python pipeline.py           # Full pipeline
-    python pipeline.py --skip-fetch  # Skip fetching (use cached raw data)
+    python pipeline.py                  # Full pipeline with seed data
+    python pipeline.py --live-fetch     # Attempt live ESPN fetch (fallback to seed)
 """
 
 import json
@@ -11,7 +11,7 @@ import os
 import sys
 import time
 
-from fetch_data import fetch_and_save, TARGET_TEAMS
+from seed_data import generate_seed_data
 from player_profiler import profile_all_teams
 from lineup_scorer import score_all_teams
 
@@ -20,7 +20,6 @@ PROCESSED_DIR = os.path.join(os.path.dirname(__file__), "data", "processed")
 
 def build_manifest(team_results: list[dict], lineup_results: list[dict]):
     """Build a manifest file listing all available teams."""
-    # Merge team info with lineup info
     lineup_map = {r["teamId"]: r for r in lineup_results}
 
     manifest = {
@@ -38,10 +37,10 @@ def build_manifest(team_results: list[dict], lineup_results: list[dict]):
             "topLineupScore": lineup_info.get("topLineupScore", 0),
         })
 
-    # Sort by team name
     manifest["teams"].sort(key=lambda t: t["teamName"])
 
     manifest_path = os.path.join(PROCESSED_DIR, "manifest.json")
+    os.makedirs(PROCESSED_DIR, exist_ok=True)
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=2)
 
@@ -49,23 +48,26 @@ def build_manifest(team_results: list[dict], lineup_results: list[dict]):
     print(f"Total teams: {len(manifest['teams'])}")
 
 
-def run_pipeline(skip_fetch: bool = False):
+def run_pipeline(live_fetch: bool = False):
     """Run the full data pipeline."""
     start = time.time()
     print("=" * 60)
     print("College Basketball Lineup Optimizer — Data Pipeline")
     print("=" * 60)
 
-    # Step 1: Fetch raw data
-    if not skip_fetch:
-        print("\n[1/3] Fetching player data from BartTorvik...")
+    # Step 1: Generate/fetch data
+    if live_fetch:
+        print("\n[1/3] Attempting live data fetch from ESPN...")
         try:
+            from fetch_data import fetch_and_save
             fetch_and_save()
         except Exception as e:
-            print(f"  Error fetching data: {e}")
-            print("  Falling back to cached data if available...")
+            print(f"  Live fetch failed: {e}")
+            print("  Falling back to seed data...")
+            generate_seed_data()
     else:
-        print("\n[1/3] Skipping fetch (using cached data)...")
+        print("\n[1/3] Generating seed data from known 2024-25 stats...")
+        generate_seed_data()
 
     # Step 2: Profile players
     print("\n[2/3] Profiling players and classifying archetypes...")
@@ -83,5 +85,5 @@ def run_pipeline(skip_fetch: bool = False):
 
 
 if __name__ == "__main__":
-    skip = "--skip-fetch" in sys.argv
-    run_pipeline(skip_fetch=skip)
+    live = "--live-fetch" in sys.argv
+    run_pipeline(live_fetch=live)
