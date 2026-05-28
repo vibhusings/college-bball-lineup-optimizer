@@ -1,0 +1,2333 @@
+{
+  "teamId": "florida",
+  "teamName": "Florida",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass"
+      ],
+      "composite": 64.6,
+      "dimensions": {
+        "offense": 53.9,
+        "defense": 78.6,
+        "spacing": 93.0,
+        "playmaking": 25.1,
+        "rebounding": 43.9,
+        "versatility": 95.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 25.1
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 64.0,
+      "dimensions": {
+        "offense": 51.4,
+        "defense": 78.5,
+        "spacing": 98.0,
+        "playmaking": 27.6,
+        "rebounding": 41.4,
+        "versatility": 83.6,
+        "balance": 62.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.6
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 63.8,
+      "dimensions": {
+        "offense": 51.8,
+        "defense": 78.5,
+        "spacing": 93.0,
+        "playmaking": 26.4,
+        "rebounding": 41.5,
+        "versatility": 95.6,
+        "balance": 62.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.4
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 53.6,
+        "defense": 78.5,
+        "spacing": 93.0,
+        "playmaking": 23.5,
+        "rebounding": 41.2,
+        "versatility": 82.4,
+        "balance": 62.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 23.5
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 49.1,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 33.3,
+        "rebounding": 44.9,
+        "versatility": 96.8,
+        "balance": 87.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 87.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.3
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Denzel Aberdeen"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 49.1,
+        "defense": 78.4,
+        "spacing": 98.0,
+        "playmaking": 36.1,
+        "rebounding": 32.9,
+        "versatility": 83.6,
+        "balance": 58.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.9
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 47.9,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 44.8,
+        "rebounding": 40.7,
+        "versatility": 84.8,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.7
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 62.7,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 43.5,
+        "rebounding": 40.8,
+        "versatility": 84.8,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.8
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 54.2,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 17.6,
+        "rebounding": 53.3,
+        "versatility": 83.6,
+        "balance": 74.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 17.6
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 54.6,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 16.4,
+        "rebounding": 53.5,
+        "versatility": 83.6,
+        "balance": 74.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 16.4
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 51.4,
+        "defense": 78.5,
+        "spacing": 93.0,
+        "playmaking": 24.8,
+        "rebounding": 38.8,
+        "versatility": 82.4,
+        "balance": 62.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 24.8
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 34.5,
+        "rebounding": 42.5,
+        "versatility": 96.8,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.5
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 51.0,
+        "defense": 78.5,
+        "spacing": 93.0,
+        "playmaking": 26.0,
+        "rebounding": 38.7,
+        "versatility": 70.4,
+        "balance": 62.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.0
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 61.9,
+      "dimensions": {
+        "offense": 52.1,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 18.9,
+        "rebounding": 50.9,
+        "versatility": 83.6,
+        "balance": 74.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 18.9
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 61.9,
+      "dimensions": {
+        "offense": 45.6,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 46.0,
+        "rebounding": 38.3,
+        "versatility": 84.8,
+        "balance": 84.9
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.9
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.3
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 50.9,
+        "defense": 73.3,
+        "spacing": 100.0,
+        "playmaking": 33.5,
+        "rebounding": 29.3,
+        "versatility": 82.4,
+        "balance": 56.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 33.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.3
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 55.9,
+        "defense": 78.8,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 57.6,
+        "versatility": 81.2,
+        "balance": 76.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "defense",
+          "score": 78.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 31.6,
+        "rebounding": 42.2,
+        "versatility": 83.6,
+        "balance": 86.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.6
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 73.4,
+        "spacing": 93.0,
+        "playmaking": 50.6,
+        "rebounding": 28.6,
+        "versatility": 83.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 28.6
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 35.8,
+        "rebounding": 42.4,
+        "versatility": 84.8,
+        "balance": 86.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.8
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 51.6,
+        "defense": 78.6,
+        "spacing": 78.0,
+        "playmaking": 26.1,
+        "rebounding": 44.9,
+        "versatility": 95.6,
+        "balance": 57.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.1
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 47.3,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 43.1,
+        "rebounding": 38.0,
+        "versatility": 71.6,
+        "balance": 84.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.4
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.0
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 47.6,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 41.9,
+        "rebounding": 38.1,
+        "versatility": 71.6,
+        "balance": 84.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.7
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 41.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.1
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 53.0,
+        "defense": 78.6,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 45.6,
+        "versatility": 82.4,
+        "balance": 64.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Zyon Pullin"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 53.2,
+        "rebounding": 32.2,
+        "versatility": 84.8,
+        "balance": 64.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.2
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 44.7,
+        "defense": 73.3,
+        "spacing": 98.0,
+        "playmaking": 53.1,
+        "rebounding": 26.0,
+        "versatility": 71.6,
+        "balance": 62.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "defense",
+          "score": 73.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.0
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Denzel Aberdeen"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 78.3,
+        "spacing": 93.0,
+        "playmaking": 34.5,
+        "rebounding": 25.2,
+        "versatility": 81.2,
+        "balance": 57.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 34.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.2
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 53.7,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 55.2,
+        "versatility": 82.4,
+        "balance": 76.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 32.9,
+        "rebounding": 39.8,
+        "versatility": 83.6,
+        "balance": 87.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.5
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.9
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 44.9,
+        "defense": 73.3,
+        "spacing": 93.0,
+        "playmaking": 51.9,
+        "rebounding": 26.2,
+        "versatility": 83.6,
+        "balance": 63.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.2
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Denzel Aberdeen"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 27.4,
+        "rebounding": 42.5,
+        "versatility": 95.6,
+        "balance": 57.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.4
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 44.9,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 44.4,
+        "rebounding": 35.6,
+        "versatility": 71.6,
+        "balance": 84.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.6
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 73.4,
+        "spacing": 93.0,
+        "playmaking": 41.6,
+        "rebounding": 30.3,
+        "versatility": 83.6,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 41.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.3
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 52.6,
+        "defense": 78.5,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 42.9,
+        "versatility": 69.2,
+        "balance": 64.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 34.1,
+        "rebounding": 39.7,
+        "versatility": 71.6,
+        "balance": 86.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.5
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.1
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Denzel Aberdeen"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 49.2,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 28.6,
+        "rebounding": 42.3,
+        "versatility": 83.6,
+        "balance": 57.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.6
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Alex Condon",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 43.4,
+        "defense": 78.4,
+        "spacing": 78.0,
+        "playmaking": 54.5,
+        "rebounding": 29.8,
+        "versatility": 84.8,
+        "balance": 64.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "defense",
+          "score": 78.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.8
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 53.2,
+        "defense": 78.7,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 55.0,
+        "versatility": 70.4,
+        "balance": 76.3
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 78.7
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 59.9,
+      "dimensions": {
+        "offense": 44.0,
+        "defense": 78.5,
+        "spacing": 78.0,
+        "playmaking": 44.2,
+        "rebounding": 33.9,
+        "versatility": 84.8,
+        "balance": 66.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "defense",
+          "score": 78.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.9
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Zyon Pullin"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 78.4,
+        "spacing": 78.0,
+        "playmaking": 51.6,
+        "rebounding": 24.5,
+        "versatility": 82.4,
+        "balance": 63.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "defense",
+          "score": 78.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 24.5
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Will Richard",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 76.2,
+        "spacing": 98.0,
+        "playmaking": 61.6,
+        "rebounding": 12.6,
+        "versatility": 56.8,
+        "balance": 58.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "defense",
+          "score": 76.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 12.6
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 43.2,
+        "defense": 78.4,
+        "spacing": 78.0,
+        "playmaking": 55.8,
+        "rebounding": 29.7,
+        "versatility": 72.8,
+        "balance": 64.2
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 78.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.7
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 49.2,
+        "defense": 78.8,
+        "spacing": 55.0,
+        "playmaking": 25.8,
+        "rebounding": 54.3,
+        "versatility": 84.8,
+        "balance": 86.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.4
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 25.8
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 78.8,
+        "spacing": 55.0,
+        "playmaking": 24.5,
+        "rebounding": 54.5,
+        "versatility": 84.8,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.9
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 24.5
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Zyon Pullin"
+      ],
+      "composite": 58.9,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 78.7,
+        "spacing": 55.0,
+        "playmaking": 36.0,
+        "rebounding": 50.2,
+        "versatility": 72.8,
+        "balance": 84.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.5
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.0
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 42.6,
+        "defense": 78.3,
+        "spacing": 78.0,
+        "playmaking": 52.9,
+        "rebounding": 22.1,
+        "versatility": 82.4,
+        "balance": 63.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "defense",
+          "score": 78.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 22.1
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Zyon Pullin"
+      ],
+      "composite": 58.7,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 78.7,
+        "spacing": 55.0,
+        "playmaking": 34.2,
+        "rebounding": 45.9,
+        "versatility": 96.8,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "defense",
+          "score": 78.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.2
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "alijah_martin_florida",
+        "will_richard_florida",
+        "rueben_chinyelu_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alijah Martin",
+        "Will Richard",
+        "Rueben Chinyelu",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 58.5,
+      "dimensions": {
+        "offense": 43.2,
+        "defense": 78.4,
+        "spacing": 78.0,
+        "playmaking": 42.6,
+        "rebounding": 26.2,
+        "versatility": 82.4,
+        "balance": 65.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "defense",
+          "score": 78.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.2
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "walter_clayton_jr_florida",
+        "alijah_martin_florida",
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Walter Clayton Jr",
+        "Alijah Martin",
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Zyon Pullin"
+      ],
+      "composite": 58.4,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 78.6,
+        "spacing": 55.0,
+        "playmaking": 45.8,
+        "rebounding": 41.7,
+        "versatility": 84.8,
+        "balance": 75.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "defense",
+          "score": 78.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.7
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "alex_condon_florida",
+        "rueben_chinyelu_florida",
+        "sam_hass_florida",
+        "denzel_aberdeen_florida",
+        "zyon_pullin_florida"
+      ],
+      "playerNames": [
+        "Alex Condon",
+        "Rueben Chinyelu",
+        "Sam Hass",
+        "Denzel Aberdeen",
+        "Zyon Pullin"
+      ],
+      "composite": 58.4,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 78.7,
+        "spacing": 55.0,
+        "playmaking": 27.0,
+        "rebounding": 51.9,
+        "versatility": 84.8,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.9
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.0
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

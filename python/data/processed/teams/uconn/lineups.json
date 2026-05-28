@@ -1,0 +1,2345 @@
+{
+  "teamId": "uconn",
+  "teamName": "UConn",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr"
+      ],
+      "composite": 63.9,
+      "dimensions": {
+        "offense": 47.0,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 43.5,
+        "rebounding": 41.9,
+        "versatility": 96.8,
+        "balance": 77.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.9
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Aidan Mahaney"
+      ],
+      "composite": 63.5,
+      "dimensions": {
+        "offense": 44.0,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 45.1,
+        "rebounding": 40.2,
+        "versatility": 96.8,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.2
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart"
+      ],
+      "composite": 63.2,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 40.0,
+        "rebounding": 40.2,
+        "versatility": 96.8,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.0
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 47.7,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 34.8,
+        "rebounding": 45.7,
+        "versatility": 84.8,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.8
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 62.7,
+      "dimensions": {
+        "offense": 43.2,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 41.6,
+        "rebounding": 38.5,
+        "versatility": 96.8,
+        "balance": 87.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 41.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.5
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Aidan Mahaney"
+      ],
+      "composite": 62.4,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 74.2,
+        "spacing": 93.0,
+        "playmaking": 50.4,
+        "rebounding": 34.7,
+        "versatility": 84.8,
+        "balance": 87.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.7
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Samson Johnson"
+      ],
+      "composite": 61.9,
+      "dimensions": {
+        "offense": 45.4,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 42.6,
+        "rebounding": 33.8,
+        "versatility": 86.0,
+        "balance": 76.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.8
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 42.3,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 44.2,
+        "rebounding": 32.1,
+        "versatility": 86.0,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.1
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 44.7,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 39.1,
+        "rebounding": 32.1,
+        "versatility": 86.0,
+        "balance": 76.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.1
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Aidan Mahaney"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 39.6,
+        "defense": 74.1,
+        "spacing": 93.0,
+        "playmaking": 49.1,
+        "rebounding": 33.6,
+        "versatility": 84.8,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 39.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.6
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Aidan Mahaney"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 41.0,
+        "defense": 69.1,
+        "spacing": 100.0,
+        "playmaking": 58.7,
+        "rebounding": 20.1,
+        "versatility": 84.8,
+        "balance": 87.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 20.1
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 46.1,
+        "defense": 74.5,
+        "spacing": 93.0,
+        "playmaking": 33.9,
+        "rebounding": 37.6,
+        "versatility": 74.0,
+        "balance": 75.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 37.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.9
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 40.2,
+        "defense": 74.2,
+        "spacing": 93.0,
+        "playmaking": 40.4,
+        "rebounding": 37.4,
+        "versatility": 84.8,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.4
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 43.4,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 38.7,
+        "rebounding": 39.1,
+        "versatility": 84.8,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 38.7
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Samson Johnson"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 74.6,
+        "spacing": 78.0,
+        "playmaking": 29.0,
+        "rebounding": 54.0,
+        "versatility": 86.0,
+        "balance": 64.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.0
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 41.5,
+        "defense": 69.1,
+        "spacing": 100.0,
+        "playmaking": 50.0,
+        "rebounding": 23.9,
+        "versatility": 84.8,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 23.9
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 69.2,
+        "spacing": 100.0,
+        "playmaking": 48.4,
+        "rebounding": 25.6,
+        "versatility": 84.8,
+        "balance": 65.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.6
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 41.3,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 40.8,
+        "rebounding": 30.4,
+        "versatility": 86.0,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 40.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.4
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 40.7,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 49.5,
+        "rebounding": 26.6,
+        "versatility": 74.0,
+        "balance": 86.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.6
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 38.6,
+        "defense": 74.1,
+        "spacing": 93.0,
+        "playmaking": 45.6,
+        "rebounding": 31.9,
+        "versatility": 84.8,
+        "balance": 87.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.9
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Samson Johnson"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 74.5,
+        "spacing": 78.0,
+        "playmaking": 34.2,
+        "rebounding": 48.5,
+        "versatility": 86.0,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.2
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Samson Johnson"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 44.2,
+        "defense": 74.5,
+        "spacing": 78.0,
+        "playmaking": 33.0,
+        "rebounding": 47.3,
+        "versatility": 98.0,
+        "balance": 76.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.0
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 45.9,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 16.2,
+        "rebounding": 43.5,
+        "versatility": 82.4,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 16.2
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 40.0,
+        "defense": 69.1,
+        "spacing": 100.0,
+        "playmaking": 55.2,
+        "rebounding": 18.4,
+        "versatility": 84.8,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 18.4
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 49.8,
+        "defense": 74.5,
+        "spacing": 93.0,
+        "playmaking": 5.9,
+        "rebounding": 49.0,
+        "versatility": 80.0,
+        "balance": 58.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 49.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 5.9
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 7.5,
+        "rebounding": 47.3,
+        "versatility": 82.4,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 7.5
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 48.0,
+        "defense": 74.6,
+        "spacing": 78.0,
+        "playmaking": 25.5,
+        "rebounding": 52.3,
+        "versatility": 86.0,
+        "balance": 64.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 25.5
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 37.8,
+        "defense": 74.2,
+        "spacing": 93.0,
+        "playmaking": 48.2,
+        "rebounding": 25.5,
+        "versatility": 86.0,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 37.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.5
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 40.9,
+        "defense": 74.4,
+        "spacing": 78.0,
+        "playmaking": 34.6,
+        "rebounding": 45.6,
+        "versatility": 98.0,
+        "balance": 86.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.6
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.6,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 12.7,
+        "rebounding": 41.8,
+        "versatility": 82.4,
+        "balance": 77.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 12.7
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 59.6,
+      "dimensions": {
+        "offense": 43.4,
+        "defense": 74.5,
+        "spacing": 78.0,
+        "playmaking": 29.5,
+        "rebounding": 45.6,
+        "versatility": 98.0,
+        "balance": 76.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.5
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 38.3,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 39.5,
+        "rebounding": 29.3,
+        "versatility": 86.0,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.3
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 41.7,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 37.9,
+        "rebounding": 31.0,
+        "versatility": 86.0,
+        "balance": 63.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 37.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.0
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 44.9,
+        "defense": 74.5,
+        "spacing": 78.0,
+        "playmaking": 24.2,
+        "rebounding": 51.1,
+        "versatility": 86.0,
+        "balance": 75.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 24.2
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 43.9,
+        "defense": 74.5,
+        "spacing": 78.0,
+        "playmaking": 35.9,
+        "rebounding": 46.8,
+        "versatility": 86.0,
+        "balance": 64.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.9
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 36.6,
+        "defense": 74.2,
+        "spacing": 93.0,
+        "playmaking": 44.8,
+        "rebounding": 23.8,
+        "versatility": 86.0,
+        "balance": 86.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 36.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 23.8
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "hassan_diarra_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Hassan Diarra",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 39.9,
+        "defense": 74.4,
+        "spacing": 78.0,
+        "playmaking": 31.1,
+        "rebounding": 43.9,
+        "versatility": 98.0,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 39.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.1
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Hassan Diarra",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 58.7,
+      "dimensions": {
+        "offense": 39.3,
+        "defense": 74.3,
+        "spacing": 78.0,
+        "playmaking": 39.9,
+        "rebounding": 40.1,
+        "versatility": 86.0,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.9
+        },
+        {
+          "dimension": "offense",
+          "score": 39.3
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Samson Johnson"
+      ],
+      "composite": 58.3,
+      "dimensions": {
+        "offense": 50.7,
+        "defense": 74.7,
+        "spacing": 78.0,
+        "playmaking": 0.1,
+        "rebounding": 57.3,
+        "versatility": 81.2,
+        "balance": 58.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0.1
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 58.3,
+      "dimensions": {
+        "offense": 44.3,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 15.4,
+        "rebounding": 35.4,
+        "versatility": 71.6,
+        "balance": 76.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 15.4
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 74.5,
+        "spacing": 93.0,
+        "playmaking": 5.0,
+        "rebounding": 40.9,
+        "versatility": 69.2,
+        "balance": 57.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 74.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 5.0
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 51.6,
+        "defense": 74.7,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 61.1,
+        "versatility": 62.0,
+        "balance": 57.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 74.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 74.5,
+        "spacing": 93.0,
+        "playmaking": 6.6,
+        "rebounding": 39.2,
+        "versatility": 71.6,
+        "balance": 75.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 6.6
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 50.3,
+        "defense": 74.7,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 55.6,
+        "versatility": 81.2,
+        "balance": 58.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "tarris_reed_jr_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Tarris Reed Jr",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 57.7,
+      "dimensions": {
+        "offense": 47.5,
+        "defense": 74.6,
+        "spacing": 78.0,
+        "playmaking": 1.7,
+        "rebounding": 55.6,
+        "versatility": 83.6,
+        "balance": 63.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 1.7
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 57.6,
+      "dimensions": {
+        "offense": 43.5,
+        "defense": 74.4,
+        "spacing": 93.0,
+        "playmaking": 11.9,
+        "rebounding": 33.7,
+        "versatility": 71.6,
+        "balance": 76.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 33.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 11.9
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "samson_johnson_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Samson Johnson",
+        "Aidan Mahaney"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 46.9,
+        "defense": 74.6,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 53.9,
+        "versatility": 83.6,
+        "balance": 64.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "hassan_diarra_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Hassan Diarra",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 37.1,
+        "defense": 69.0,
+        "spacing": 100.0,
+        "playmaking": 54.0,
+        "rebounding": 17.2,
+        "versatility": 69.2,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 69.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 37.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 17.2
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "tarris_reed_jr_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Liam McNeeley",
+        "Solo Ball",
+        "Tarris Reed Jr",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 42.2,
+        "defense": 74.3,
+        "spacing": 93.0,
+        "playmaking": 11.5,
+        "rebounding": 40.7,
+        "versatility": 70.4,
+        "balance": 65.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 74.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 11.5
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "alex_karaban_uconn",
+        "liam_mcneeley_uconn",
+        "solo_ball_uconn",
+        "jaylin_stewart_uconn",
+        "aidan_mahaney_uconn"
+      ],
+      "playerNames": [
+        "Alex Karaban",
+        "Liam McNeeley",
+        "Solo Ball",
+        "Jaylin Stewart",
+        "Aidan Mahaney"
+      ],
+      "composite": 56.9,
+      "dimensions": {
+        "offense": 43.5,
+        "defense": 69.2,
+        "spacing": 100.0,
+        "playmaking": 21.1,
+        "rebounding": 27.2,
+        "versatility": 70.4,
+        "balance": 64.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 70.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 27.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 21.1
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

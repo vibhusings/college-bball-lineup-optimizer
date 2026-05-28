@@ -1,0 +1,2329 @@
+{
+  "teamId": "tennessee",
+  "teamName": "Tennessee",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 66.0,
+      "dimensions": {
+        "offense": 50.2,
+        "defense": 80.1,
+        "spacing": 93.0,
+        "playmaking": 33.9,
+        "rebounding": 45.9,
+        "versatility": 96.0,
+        "balance": 84.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.9
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara"
+      ],
+      "composite": 65.7,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 80.1,
+        "spacing": 93.0,
+        "playmaking": 40.5,
+        "rebounding": 40.6,
+        "versatility": 84.0,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.5
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 65.4,
+      "dimensions": {
+        "offense": 46.6,
+        "defense": 80.2,
+        "spacing": 93.0,
+        "playmaking": 38.5,
+        "rebounding": 44.6,
+        "versatility": 96.0,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 38.5
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Felix Okpara"
+      ],
+      "composite": 65.0,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 83.1,
+        "spacing": 78.0,
+        "playmaking": 36.5,
+        "rebounding": 45.0,
+        "versatility": 96.0,
+        "balance": 93.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "balance",
+          "score": 93.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.5
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 64.9,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 80.0,
+        "spacing": 93.0,
+        "playmaking": 33.1,
+        "rebounding": 42.5,
+        "versatility": 86.0,
+        "balance": 84.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.1
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Cade Phillips"
+      ],
+      "composite": 64.6,
+      "dimensions": {
+        "offense": 49.9,
+        "defense": 79.9,
+        "spacing": 93.0,
+        "playmaking": 39.8,
+        "rebounding": 37.2,
+        "versatility": 74.0,
+        "balance": 85.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.2
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey"
+      ],
+      "composite": 64.4,
+      "dimensions": {
+        "offense": 47.3,
+        "defense": 77.8,
+        "spacing": 98.0,
+        "playmaking": 47.0,
+        "rebounding": 27.6,
+        "versatility": 86.0,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 27.6
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara"
+      ],
+      "composite": 64.3,
+      "dimensions": {
+        "offense": 45.8,
+        "defense": 83.2,
+        "spacing": 78.0,
+        "playmaking": 41.1,
+        "rebounding": 43.7,
+        "versatility": 96.0,
+        "balance": 94.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "balance",
+          "score": 94.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.1
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 64.2,
+      "dimensions": {
+        "offense": 52.2,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 29.2,
+        "rebounding": 54.6,
+        "versatility": 84.0,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 29.2
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 64.2,
+      "dimensions": {
+        "offense": 45.9,
+        "defense": 80.1,
+        "spacing": 93.0,
+        "playmaking": 37.8,
+        "rebounding": 41.2,
+        "versatility": 86.0,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.8
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Cade Phillips"
+      ],
+      "composite": 63.8,
+      "dimensions": {
+        "offense": 48.7,
+        "defense": 83.0,
+        "spacing": 78.0,
+        "playmaking": 35.8,
+        "rebounding": 41.6,
+        "versatility": 86.0,
+        "balance": 93.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 93.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.8
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.5,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 80.0,
+        "spacing": 93.0,
+        "playmaking": 39.8,
+        "rebounding": 33.6,
+        "versatility": 84.0,
+        "balance": 62.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.6
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 63.5,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 33.9,
+        "rebounding": 53.3,
+        "versatility": 84.0,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.2
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.9
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 45.2,
+        "defense": 83.3,
+        "spacing": 78.0,
+        "playmaking": 34.5,
+        "rebounding": 49.1,
+        "versatility": 84.0,
+        "balance": 94.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.5
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.3,
+      "dimensions": {
+        "offense": 46.8,
+        "defense": 77.9,
+        "spacing": 93.0,
+        "playmaking": 40.4,
+        "rebounding": 32.9,
+        "versatility": 86.0,
+        "balance": 84.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 40.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.9
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.3,
+      "dimensions": {
+        "offense": 51.3,
+        "defense": 80.2,
+        "spacing": 78.0,
+        "playmaking": 28.5,
+        "rebounding": 47.7,
+        "versatility": 96.0,
+        "balance": 73.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "defense",
+          "score": 80.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.5
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.3,
+      "dimensions": {
+        "offense": 48.1,
+        "defense": 80.4,
+        "spacing": 78.0,
+        "playmaking": 27.2,
+        "rebounding": 58.6,
+        "versatility": 84.0,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.1
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.2
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jordan Gainey",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 79.9,
+        "spacing": 93.0,
+        "playmaking": 39.0,
+        "rebounding": 30.3,
+        "versatility": 87.2,
+        "balance": 62.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.3
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Cade Phillips"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 44.9,
+        "defense": 83.1,
+        "spacing": 78.0,
+        "playmaking": 40.4,
+        "rebounding": 40.3,
+        "versatility": 86.0,
+        "balance": 95.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 95.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 40.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.3
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 83.0,
+        "spacing": 78.0,
+        "playmaking": 42.4,
+        "rebounding": 32.7,
+        "versatility": 84.0,
+        "balance": 83.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.7
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.9,
+      "dimensions": {
+        "offense": 48.1,
+        "defense": 74.8,
+        "spacing": 100.0,
+        "playmaking": 44.4,
+        "rebounding": 28.5,
+        "versatility": 86.0,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 28.5
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 62.9,
+      "dimensions": {
+        "offense": 51.7,
+        "defense": 80.1,
+        "spacing": 78.0,
+        "playmaking": 35.1,
+        "rebounding": 42.3,
+        "versatility": 84.0,
+        "balance": 74.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        },
+        {
+          "dimension": "defense",
+          "score": 80.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.1
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 83.1,
+        "spacing": 78.0,
+        "playmaking": 35.8,
+        "rebounding": 38.1,
+        "versatility": 84.0,
+        "balance": 83.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.8
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 43.0,
+        "defense": 77.9,
+        "spacing": 93.0,
+        "playmaking": 45.0,
+        "rebounding": 31.7,
+        "versatility": 86.0,
+        "balance": 85.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.7
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 47.6,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 33.1,
+        "rebounding": 46.4,
+        "versatility": 96.0,
+        "balance": 75.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "defense",
+          "score": 80.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.1
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Cade Phillips"
+      ],
+      "composite": 62.5,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 82.9,
+        "spacing": 78.0,
+        "playmaking": 41.6,
+        "rebounding": 29.3,
+        "versatility": 87.2,
+        "balance": 83.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 83.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 41.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.3
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 47.7,
+        "defense": 82.9,
+        "spacing": 78.0,
+        "playmaking": 35.0,
+        "rebounding": 34.7,
+        "versatility": 87.2,
+        "balance": 83.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 83.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 35.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.7
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 44.3,
+        "defense": 83.1,
+        "spacing": 78.0,
+        "playmaking": 33.8,
+        "rebounding": 45.7,
+        "versatility": 74.0,
+        "balance": 94.9
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.9
+        },
+        {
+          "dimension": "defense",
+          "score": 83.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.8
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 83.1,
+        "spacing": 78.0,
+        "playmaking": 40.4,
+        "rebounding": 36.8,
+        "versatility": 84.0,
+        "balance": 84.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 40.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.8
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 54.9,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 59.7,
+        "versatility": 81.2,
+        "balance": 74.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "defense",
+          "score": 80.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 53.2,
+        "defense": 80.1,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 45.7,
+        "versatility": 83.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 61.5,
+      "dimensions": {
+        "offense": 43.8,
+        "defense": 83.0,
+        "spacing": 78.0,
+        "playmaking": 39.6,
+        "rebounding": 33.4,
+        "versatility": 87.2,
+        "balance": 84.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 84.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.4
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 55.3,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 54.4,
+        "versatility": 71.6,
+        "balance": 74.6
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 80.3
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 83.2,
+        "spacing": 55.0,
+        "playmaking": 31.1,
+        "rebounding": 46.7,
+        "versatility": 96.0,
+        "balance": 83.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.1
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 51.3,
+        "defense": 80.4,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 58.5,
+        "versatility": 83.6,
+        "balance": 76.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 80.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "chaz_lanier_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Chaz Lanier",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Darlinstone Dubar"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 77.7,
+        "spacing": 98.0,
+        "playmaking": 46.2,
+        "rebounding": 15.7,
+        "versatility": 71.6,
+        "balance": 62.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "defense",
+          "score": 77.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 15.7
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 52.1,
+        "defense": 80.2,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 50.1,
+        "versatility": 81.2,
+        "balance": 84.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.2
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jordan Gainey",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 52.3,
+        "defense": 80.0,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 42.3,
+        "versatility": 70.4,
+        "balance": 63.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 83.4,
+        "spacing": 55.0,
+        "playmaking": 29.9,
+        "rebounding": 57.7,
+        "versatility": 84.0,
+        "balance": 84.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.9
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 52.5,
+        "defense": 80.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 44.8,
+        "versatility": 83.6,
+        "balance": 84.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.2
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 83.3,
+        "spacing": 55.0,
+        "playmaking": 35.8,
+        "rebounding": 45.5,
+        "versatility": 96.0,
+        "balance": 84.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.8
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 54.4,
+        "defense": 80.2,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 47.5,
+        "versatility": 83.6,
+        "balance": 56.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "defense",
+          "score": 80.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Darlinstone Dubar"
+      ],
+      "composite": 59.6,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 80.3,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 48.9,
+        "versatility": 83.6,
+        "balance": 86.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 51.2,
+        "defense": 80.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 46.7,
+        "versatility": 68.0,
+        "balance": 84.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.3
+        },
+        {
+          "dimension": "defense",
+          "score": 80.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "zakai_zeigler_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Zakai Zeigler",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 46.1,
+        "defense": 83.3,
+        "spacing": 55.0,
+        "playmaking": 29.1,
+        "rebounding": 50.8,
+        "versatility": 84.0,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.1
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Cade Phillips"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 51.7,
+        "defense": 80.0,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 41.4,
+        "versatility": 70.4,
+        "balance": 84.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.4
+        },
+        {
+          "dimension": "defense",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 54.3,
+        "defense": 80.3,
+        "spacing": 55.0,
+        "playmaking": 0,
+        "rebounding": 58.8,
+        "versatility": 81.2,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "cade_phillips_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Cade Phillips",
+        "Darlinstone Dubar"
+      ],
+      "composite": 58.3,
+      "dimensions": {
+        "offense": 47.4,
+        "defense": 80.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 45.5,
+        "versatility": 70.4,
+        "balance": 86.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.4
+        },
+        {
+          "dimension": "defense",
+          "score": 80.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "chaz_lanier_tennessee",
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "darlinstone_dubar_tennessee"
+      ],
+      "playerNames": [
+        "Chaz Lanier",
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Darlinstone Dubar"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 74.9,
+        "spacing": 93.0,
+        "playmaking": 2.6,
+        "rebounding": 32.7,
+        "versatility": 70.4,
+        "balance": 63.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "defense",
+          "score": 74.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 32.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 2.6
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "igor_milicic_jr_tennessee",
+        "jahmai_mashack_tennessee",
+        "jordan_gainey_tennessee",
+        "felix_okpara_tennessee",
+        "cade_phillips_tennessee"
+      ],
+      "playerNames": [
+        "Igor Milicic Jr",
+        "Jahmai Mashack",
+        "Jordan Gainey",
+        "Felix Okpara",
+        "Cade Phillips"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 50.5,
+        "defense": 80.4,
+        "spacing": 55.0,
+        "playmaking": 0,
+        "rebounding": 57.6,
+        "versatility": 83.6,
+        "balance": 86.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.2
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}
