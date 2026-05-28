@@ -1,0 +1,2317 @@
+{
+  "teamId": "duke",
+  "teamName": "Duke",
+  "totalCombinations": 252,
+  "lineups": [
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 64.7,
+      "dimensions": {
+        "offense": 54.7,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 34.0,
+        "rebounding": 49.5,
+        "versatility": 82.4,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 49.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.0
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 64.3,
+      "dimensions": {
+        "offense": 51.9,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 35.2,
+        "rebounding": 54.4,
+        "versatility": 80.0,
+        "balance": 83.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 35.2
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Sion James",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 63.9,
+      "dimensions": {
+        "offense": 50.9,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 36.1,
+        "rebounding": 50.2,
+        "versatility": 83.6,
+        "balance": 83.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Christian Reeves"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 51.4,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 32.2,
+        "rebounding": 42.1,
+        "versatility": 94.4,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.2
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Sion James",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 70.7,
+        "spacing": 93.0,
+        "playmaking": 37.4,
+        "rebounding": 55.1,
+        "versatility": 81.2,
+        "balance": 83.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.4
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Darren Harris",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 63.3,
+      "dimensions": {
+        "offense": 51.3,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 32.5,
+        "rebounding": 46.1,
+        "versatility": 84.8,
+        "balance": 83.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.5
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 51.4,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 28.4,
+        "rebounding": 49.7,
+        "versatility": 82.4,
+        "balance": 83.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 49.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.4
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Patrick Ngongba II"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 33.5,
+        "rebounding": 47.0,
+        "versatility": 92.0,
+        "balance": 84.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 92.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.5
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Sion James",
+        "Christian Reeves"
+      ],
+      "composite": 62.9,
+      "dimensions": {
+        "offense": 50.8,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 40.0,
+        "rebounding": 42.6,
+        "versatility": 83.6,
+        "balance": 73.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.0
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Darren Harris",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 33.8,
+        "rebounding": 51.0,
+        "versatility": 82.4,
+        "balance": 83.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.8
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.7,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 29.6,
+        "rebounding": 54.6,
+        "versatility": 80.0,
+        "balance": 83.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.6
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 62.7,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 70.3,
+        "spacing": 93.0,
+        "playmaking": 30.5,
+        "rebounding": 33.9,
+        "versatility": 94.4,
+        "balance": 95.9
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 95.9
+        },
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 33.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.5
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Sion James",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 47.9,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 41.2,
+        "rebounding": 47.5,
+        "versatility": 81.2,
+        "balance": 73.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.2
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Mason Gillis"
+      ],
+      "composite": 62.5,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 65.3,
+        "spacing": 100.0,
+        "playmaking": 39.8,
+        "rebounding": 41.6,
+        "versatility": 68.8,
+        "balance": 95.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 95.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 39.8
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Sion James",
+        "Christian Reeves"
+      ],
+      "composite": 62.5,
+      "dimensions": {
+        "offense": 47.4,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 34.4,
+        "rebounding": 42.8,
+        "versatility": 95.6,
+        "balance": 83.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.4
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "darren_harris_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Darren Harris",
+        "Christian Reeves"
+      ],
+      "composite": 62.4,
+      "dimensions": {
+        "offense": 51.2,
+        "defense": 70.4,
+        "spacing": 93.0,
+        "playmaking": 36.4,
+        "rebounding": 38.6,
+        "versatility": 84.8,
+        "balance": 74.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.4
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "maliq_brown_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Maliq Brown",
+        "Mason Gillis"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 53.4,
+        "defense": 65.4,
+        "spacing": 93.0,
+        "playmaking": 38.4,
+        "rebounding": 50.6,
+        "versatility": 56.8,
+        "balance": 84.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 38.4
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Sion James",
+        "Mason Gillis"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 48.9,
+        "defense": 65.3,
+        "spacing": 100.0,
+        "playmaking": 47.5,
+        "rebounding": 42.1,
+        "versatility": 62.0,
+        "balance": 84.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 42.1
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 47.4,
+        "defense": 70.4,
+        "spacing": 93.0,
+        "playmaking": 31.8,
+        "rebounding": 38.8,
+        "versatility": 92.0,
+        "balance": 95.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 95.5
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.8
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Sion James",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 49.9,
+        "defense": 70.4,
+        "spacing": 93.0,
+        "playmaking": 38.2,
+        "rebounding": 34.4,
+        "versatility": 83.6,
+        "balance": 85.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 38.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.4
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Sion James",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 35.6,
+        "rebounding": 47.7,
+        "versatility": 93.2,
+        "balance": 83.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 93.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.6
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Darren Harris",
+        "Mason Gillis"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 49.4,
+        "defense": 65.2,
+        "spacing": 100.0,
+        "playmaking": 43.9,
+        "rebounding": 38.1,
+        "versatility": 68.0,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.1
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "darren_harris_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Darren Harris",
+        "Patrick Ngongba II"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 48.4,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 37.6,
+        "rebounding": 43.5,
+        "versatility": 82.4,
+        "balance": 74.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.6
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "darren_harris_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Darren Harris",
+        "Christian Reeves"
+      ],
+      "composite": 61.9,
+      "dimensions": {
+        "offense": 47.9,
+        "defense": 70.4,
+        "spacing": 93.0,
+        "playmaking": 30.8,
+        "rebounding": 38.7,
+        "versatility": 96.8,
+        "balance": 84.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.8
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Sion James",
+        "Mason Gillis"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 65.3,
+        "spacing": 100.0,
+        "playmaking": 41.9,
+        "rebounding": 42.3,
+        "versatility": 74.0,
+        "balance": 94.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 94.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.9
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 55.9,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 52.1,
+        "versatility": 81.2,
+        "balance": 83.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Sion James",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 39.5,
+        "rebounding": 39.3,
+        "versatility": 81.2,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.3
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Darren Harris",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 50.4,
+        "defense": 70.3,
+        "spacing": 93.0,
+        "playmaking": 34.6,
+        "rebounding": 30.3,
+        "versatility": 84.8,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 34.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.3
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "darren_harris_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Darren Harris",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 32.0,
+        "rebounding": 43.6,
+        "versatility": 94.4,
+        "balance": 84.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.0
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "maliq_brown_duke",
+        "sion_james_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Maliq Brown",
+        "Sion James",
+        "Mason Gillis"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 65.5,
+        "spacing": 93.0,
+        "playmaking": 40.5,
+        "rebounding": 51.3,
+        "versatility": 62.0,
+        "balance": 83.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.5
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Sion James",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 70.4,
+        "spacing": 93.0,
+        "playmaking": 32.6,
+        "rebounding": 34.5,
+        "versatility": 95.6,
+        "balance": 96.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 96.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 34.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.6
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Darren Harris",
+        "Mason Gillis"
+      ],
+      "composite": 61.5,
+      "dimensions": {
+        "offense": 46.1,
+        "defense": 65.2,
+        "spacing": 100.0,
+        "playmaking": 38.2,
+        "rebounding": 38.2,
+        "versatility": 80.0,
+        "balance": 95.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 95.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 38.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.2
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "maliq_brown_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Maliq Brown",
+        "Christian Reeves"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 55.4,
+        "defense": 70.6,
+        "spacing": 78.0,
+        "playmaking": 30.9,
+        "rebounding": 51.1,
+        "versatility": 82.4,
+        "balance": 62.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 30.9
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "sion_james_duke",
+        "darren_harris_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Sion James",
+        "Darren Harris",
+        "Christian Reeves"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 38.5,
+        "rebounding": 39.3,
+        "versatility": 84.8,
+        "balance": 73.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 38.5
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "maliq_brown_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Maliq Brown",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 55.0,
+        "defense": 70.5,
+        "spacing": 78.0,
+        "playmaking": 29.1,
+        "rebounding": 42.9,
+        "versatility": 82.4,
+        "balance": 85.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.1
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "maliq_brown_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Maliq Brown",
+        "Darren Harris",
+        "Mason Gillis"
+      ],
+      "composite": 61.3,
+      "dimensions": {
+        "offense": 50.0,
+        "defense": 65.3,
+        "spacing": 93.0,
+        "playmaking": 36.9,
+        "rebounding": 47.3,
+        "versatility": 68.0,
+        "balance": 84.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.9
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "kon_knueppel_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Kon Knueppel",
+        "Sion James",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.3,
+      "dimensions": {
+        "offense": 55.6,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 4.7,
+        "rebounding": 52.6,
+        "versatility": 71.6,
+        "balance": 73.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 73.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 4.7
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "maliq_brown_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Maliq Brown",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 55.6,
+        "defense": 70.7,
+        "spacing": 78.0,
+        "playmaking": 27.0,
+        "rebounding": 58.7,
+        "versatility": 70.4,
+        "balance": 61.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 70.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 27.0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Darren Harris",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 47.3,
+        "defense": 70.3,
+        "spacing": 93.0,
+        "playmaking": 35.9,
+        "rebounding": 35.2,
+        "versatility": 82.4,
+        "balance": 85.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 35.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.2
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 53.0,
+        "defense": 70.6,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 57.0,
+        "versatility": 74.0,
+        "balance": 83.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 83.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Sion James",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 42.6,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 33.9,
+        "rebounding": 39.4,
+        "versatility": 93.2,
+        "balance": 95.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 95.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 93.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.9
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "isaiah_evans_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Isaiah Evans",
+        "Darren Harris",
+        "Mason Gillis",
+        "Christian Reeves"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 70.3,
+        "spacing": 93.0,
+        "playmaking": 29.0,
+        "rebounding": 30.5,
+        "versatility": 96.8,
+        "balance": 96.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 96.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 30.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.0
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "maliq_brown_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Maliq Brown"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 50.1,
+        "defense": 65.3,
+        "spacing": 93.0,
+        "playmaking": 36.6,
+        "rebounding": 43.2,
+        "versatility": 68.8,
+        "balance": 85.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.6
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "isaiah_evans_duke",
+        "sion_james_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Isaiah Evans",
+        "Sion James"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 65.3,
+        "spacing": 100.0,
+        "playmaking": 45.8,
+        "rebounding": 34.7,
+        "versatility": 74.0,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.7
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "maliq_brown_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Maliq Brown",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 52.5,
+        "defense": 70.7,
+        "spacing": 78.0,
+        "playmaking": 32.1,
+        "rebounding": 56.1,
+        "versatility": 80.0,
+        "balance": 61.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 32.1
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "patrick_ngongba_ii_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Patrick Ngongba II",
+        "Christian Reeves"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 53.9,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 27.7,
+        "rebounding": 54.9,
+        "versatility": 82.4,
+        "balance": 61.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 27.7
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "sion_james_duke",
+        "darren_harris_duke",
+        "mason_gillis_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Sion James",
+        "Darren Harris",
+        "Mason Gillis"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 65.3,
+        "spacing": 100.0,
+        "playmaking": 46.0,
+        "rebounding": 38.8,
+        "versatility": 68.0,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.8
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "cooper_flagg_duke",
+        "tyrese_proctor_duke",
+        "sion_james_duke",
+        "darren_harris_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Cooper Flagg",
+        "Tyrese Proctor",
+        "Sion James",
+        "Darren Harris",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 44.2,
+        "defense": 70.5,
+        "spacing": 93.0,
+        "playmaking": 39.8,
+        "rebounding": 44.2,
+        "versatility": 82.4,
+        "balance": 73.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 39.8
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "maliq_brown_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Maliq Brown",
+        "Mason Gillis",
+        "Patrick Ngongba II"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 51.8,
+        "defense": 70.5,
+        "spacing": 78.0,
+        "playmaking": 30.4,
+        "rebounding": 47.8,
+        "versatility": 80.0,
+        "balance": 85.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.4
+        },
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.4
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "tyrese_proctor_duke",
+        "kon_knueppel_duke",
+        "mason_gillis_duke",
+        "patrick_ngongba_ii_duke",
+        "christian_reeves_duke"
+      ],
+      "playerNames": [
+        "Tyrese Proctor",
+        "Kon Knueppel",
+        "Mason Gillis",
+        "Patrick Ngongba II",
+        "Christian Reeves"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 53.3,
+        "defense": 70.7,
+        "spacing": 78.0,
+        "playmaking": 26.0,
+        "rebounding": 46.7,
+        "versatility": 82.4,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.0
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

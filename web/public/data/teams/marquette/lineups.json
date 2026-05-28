@@ -1,0 +1,2353 @@
+{
+  "teamId": "marquette",
+  "teamName": "Marquette",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 48.0,
+        "defense": 70.7,
+        "spacing": 93.0,
+        "playmaking": 70.6,
+        "rebounding": 29.5,
+        "versatility": 83.6,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.5
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Al Marroge"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 53.3,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 45.6,
+        "rebounding": 41.2,
+        "versatility": 95.6,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 45.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.2
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Damarius Owens"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 49.1,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 46.8,
+        "rebounding": 35.9,
+        "versatility": 83.6,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.9
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 49.8,
+        "defense": 70.7,
+        "spacing": 93.0,
+        "playmaking": 52.3,
+        "rebounding": 30.7,
+        "versatility": 83.6,
+        "balance": 75.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.7
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 73.7,
+        "spacing": 93.0,
+        "playmaking": 74.6,
+        "rebounding": 27.1,
+        "versatility": 71.6,
+        "balance": 63.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 74.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 27.1
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 51.4,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 51.1,
+        "rebounding": 36.7,
+        "versatility": 94.4,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        },
+        {
+          "dimension": "balance",
+          "score": 85.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.7
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 62.6,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 52.3,
+        "rebounding": 31.3,
+        "versatility": 82.4,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.3
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 62.4,
+      "dimensions": {
+        "offense": 44.2,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 69.1,
+        "rebounding": 32.3,
+        "versatility": 83.6,
+        "balance": 63.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.3
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Damarius Owens"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 45.9,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 50.8,
+        "rebounding": 33.5,
+        "versatility": 83.6,
+        "balance": 85.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.5
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 70.7,
+        "spacing": 93.0,
+        "playmaking": 57.7,
+        "rebounding": 26.2,
+        "versatility": 82.4,
+        "balance": 76.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.2
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 41.8,
+        "defense": 73.9,
+        "spacing": 93.0,
+        "playmaking": 53.0,
+        "rebounding": 32.2,
+        "versatility": 83.6,
+        "balance": 88.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 88.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.2
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 71.0,
+        "rebounding": 29.4,
+        "versatility": 82.4,
+        "balance": 63.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.4
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman"
+      ],
+      "composite": 61.9,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 54.5,
+        "rebounding": 29.4,
+        "versatility": 83.6,
+        "balance": 78.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.4
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 68.0,
+        "rebounding": 37.6,
+        "versatility": 83.6,
+        "balance": 63.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.6
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Al Marroge"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 50.1,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 49.6,
+        "rebounding": 38.8,
+        "versatility": 83.6,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 49.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.8
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 43.9,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 56.2,
+        "rebounding": 29.0,
+        "versatility": 82.4,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.0
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 47.9,
+        "rebounding": 39.9,
+        "versatility": 83.6,
+        "balance": 87.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.5
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.9
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 49.5,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 44.1,
+        "rebounding": 44.0,
+        "versatility": 95.6,
+        "balance": 74.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 44.0
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 70.9,
+        "spacing": 93.0,
+        "playmaking": 49.0,
+        "rebounding": 34.6,
+        "versatility": 71.6,
+        "balance": 88.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 88.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.6
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Chase Ross",
+        "Tre Norman"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 68.6,
+        "spacing": 100.0,
+        "playmaking": 77.6,
+        "rebounding": 18.9,
+        "versatility": 68.0,
+        "balance": 57.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 77.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 18.9
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Chase Ross",
+        "Al Marroge"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 52.6,
+        "rebounding": 30.5,
+        "versatility": 82.4,
+        "balance": 74.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.5
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 61.4,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 68.7,
+        "spacing": 93.0,
+        "playmaking": 75.0,
+        "rebounding": 27.0,
+        "versatility": 70.4,
+        "balance": 62.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 75.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 27.0
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 47.1,
+        "rebounding": 35.7,
+        "versatility": 82.4,
+        "balance": 74.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.7
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 68.7,
+        "spacing": 93.0,
+        "playmaking": 54.9,
+        "rebounding": 29.3,
+        "versatility": 82.4,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.3
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 48.1,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 55.1,
+        "rebounding": 34.3,
+        "versatility": 82.4,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.3
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 47.5,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 49.6,
+        "rebounding": 39.5,
+        "versatility": 94.4,
+        "balance": 75.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.5
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Al Marroge"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 51.7,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 29.5,
+        "rebounding": 41.1,
+        "versatility": 95.6,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.5
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Damarius Owens"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 70.9,
+        "spacing": 93.0,
+        "playmaking": 30.6,
+        "rebounding": 35.8,
+        "versatility": 83.6,
+        "balance": 88.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 88.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.6
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 47.6,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 58.1,
+        "rebounding": 26.0,
+        "versatility": 81.2,
+        "balance": 75.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.0
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 43.8,
+        "defense": 65.7,
+        "spacing": 100.0,
+        "playmaking": 72.1,
+        "rebounding": 24.0,
+        "versatility": 68.0,
+        "balance": 64.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 72.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 24.0
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 46.2,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 51.9,
+        "rebounding": 37.5,
+        "versatility": 83.6,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.5
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 43.9,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 69.5,
+        "rebounding": 32.2,
+        "versatility": 82.4,
+        "balance": 56.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.2
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Al Marroge"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 53.3,
+        "defense": 70.8,
+        "spacing": 78.0,
+        "playmaking": 32.8,
+        "rebounding": 37.8,
+        "versatility": 80.0,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 37.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.8
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Damarius Owens"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 70.8,
+        "spacing": 93.0,
+        "playmaking": 33.9,
+        "rebounding": 32.5,
+        "versatility": 68.0,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 33.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.5
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 47.0,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 52.6,
+        "rebounding": 31.2,
+        "versatility": 81.2,
+        "balance": 75.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.2
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette"
+      ],
+      "playerNames": [
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 35.0,
+        "rebounding": 36.6,
+        "versatility": 94.4,
+        "balance": 88.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 94.4
+        },
+        {
+          "dimension": "balance",
+          "score": 88.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.0
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "David Joplin",
+        "Ben Gold",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 52.6,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 27.2,
+        "rebounding": 43.0,
+        "versatility": 80.0,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.1
+        },
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.2
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "David Joplin",
+        "Ben Gold",
+        "Chase Ross",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 70.9,
+        "spacing": 93.0,
+        "playmaking": 36.1,
+        "rebounding": 31.3,
+        "versatility": 82.4,
+        "balance": 88.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 88.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.3
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Chase Ross",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 40.5,
+        "defense": 68.7,
+        "spacing": 100.0,
+        "playmaking": 76.1,
+        "rebounding": 21.7,
+        "versatility": 62.0,
+        "balance": 63.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 76.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 21.7
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "Chase Ross",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 51.1,
+        "rebounding": 33.3,
+        "versatility": 82.4,
+        "balance": 74.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.3
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Ben Gold",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 51.0,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 24.0,
+        "rebounding": 46.3,
+        "versatility": 83.6,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 24.0
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Stevie Mitchell",
+        "David Joplin",
+        "Chase Ross",
+        "Damarius Owens"
+      ],
+      "composite": 60.1,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 65.7,
+        "spacing": 100.0,
+        "playmaking": 53.7,
+        "rebounding": 25.2,
+        "versatility": 68.0,
+        "balance": 75.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.2
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.1,
+      "dimensions": {
+        "offense": 41.4,
+        "defense": 68.8,
+        "spacing": 93.0,
+        "playmaking": 53.4,
+        "rebounding": 32.1,
+        "versatility": 82.4,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.1
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Chase Ross",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 47.5,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 28.0,
+        "rebounding": 43.9,
+        "versatility": 95.6,
+        "balance": 87.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "balance",
+          "score": 87.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.0
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 46.4,
+        "rebounding": 42.7,
+        "versatility": 83.6,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 42.7
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Chase Ross",
+        "Tre Norman",
+        "Damarius Owens"
+      ],
+      "composite": 59.9,
+      "dimensions": {
+        "offense": 41.3,
+        "defense": 68.7,
+        "spacing": 100.0,
+        "playmaking": 56.0,
+        "rebounding": 23.9,
+        "versatility": 68.0,
+        "balance": 78.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 23.9
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "chase_ross_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Chase Ross",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 43.6,
+        "defense": 65.7,
+        "spacing": 93.0,
+        "playmaking": 56.6,
+        "rebounding": 28.8,
+        "versatility": 81.2,
+        "balance": 75.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 28.8
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "david_joplin_marquette",
+        "ben_gold_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "David Joplin",
+        "Ben Gold",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 48.9,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 29.5,
+        "rebounding": 41.8,
+        "versatility": 82.4,
+        "balance": 88.1
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 88.1
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.5
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "kam_jones_marquette",
+        "ben_gold_marquette",
+        "chase_ross_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Kam Jones",
+        "Ben Gold",
+        "Chase Ross",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 49.3,
+        "defense": 70.9,
+        "spacing": 78.0,
+        "playmaking": 31.2,
+        "rebounding": 40.7,
+        "versatility": 80.0,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.2
+        },
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.2
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "stevie_mitchell_marquette",
+        "david_joplin_marquette",
+        "tre_norman_marquette",
+        "al_marroge_marquette",
+        "damarius_owens_marquette"
+      ],
+      "playerNames": [
+        "Stevie Mitchell",
+        "David Joplin",
+        "Tre Norman",
+        "Al Marroge",
+        "Damarius Owens"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 65.8,
+        "spacing": 93.0,
+        "playmaking": 49.4,
+        "rebounding": 34.5,
+        "versatility": 70.4,
+        "balance": 77.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.5
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

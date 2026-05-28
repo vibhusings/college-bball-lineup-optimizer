@@ -1,0 +1,2341 @@
+{
+  "teamId": "purdue",
+  "teamName": "Purdue",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Daniel Jacobsen"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 52.1,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 44.0,
+        "rebounding": 46.6,
+        "versatility": 87.2,
+        "balance": 94.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 44.0
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 51.3,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 42.4,
+        "rebounding": 50.2,
+        "versatility": 87.2,
+        "balance": 94.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.4
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 61.7,
+      "dimensions": {
+        "offense": 49.3,
+        "defense": 66.7,
+        "spacing": 78.0,
+        "playmaking": 42.3,
+        "rebounding": 51.7,
+        "versatility": 87.2,
+        "balance": 94.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 42.3
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 54.0,
+        "rebounding": 35.2,
+        "versatility": 83.6,
+        "balance": 85.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.2
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Daniel Jacobsen"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 51.7,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 50.0,
+        "rebounding": 40.3,
+        "versatility": 75.2,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.3
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Gicarri Harris"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 53.9,
+        "rebounding": 36.8,
+        "versatility": 83.6,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.8
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 43.7,
+        "rebounding": 43.1,
+        "versatility": 87.2,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 85.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 43.1
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 50.2,
+        "defense": 66.7,
+        "spacing": 78.0,
+        "playmaking": 36.1,
+        "rebounding": 53.0,
+        "versatility": 75.2,
+        "balance": 94.5
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 94.5
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 60.8,
+      "dimensions": {
+        "offense": 49.8,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 42.1,
+        "rebounding": 46.7,
+        "versatility": 87.2,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 85.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 42.1
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Gicarri Harris"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 45.8,
+        "defense": 61.4,
+        "spacing": 93.0,
+        "playmaking": 52.3,
+        "rebounding": 40.4,
+        "versatility": 83.6,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.4
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Myles Colvin"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 47.5,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 47.8,
+        "rebounding": 38.0,
+        "versatility": 83.6,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.0
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 49.8,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 49.9,
+        "rebounding": 41.8,
+        "versatility": 75.2,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.8
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Myles Colvin"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 46.6,
+        "defense": 61.4,
+        "spacing": 93.0,
+        "playmaking": 46.1,
+        "rebounding": 41.7,
+        "versatility": 83.6,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.7
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 46.8,
+        "defense": 66.3,
+        "spacing": 93.0,
+        "playmaking": 44.1,
+        "rebounding": 28.5,
+        "versatility": 87.2,
+        "balance": 85.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 28.5
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 48.2,
+        "rebounding": 45.5,
+        "versatility": 75.2,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.3
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 48.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 45.5
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 66.7,
+        "spacing": 78.0,
+        "playmaking": 42.0,
+        "rebounding": 48.3,
+        "versatility": 87.2,
+        "balance": 85.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 85.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 42.0
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Myles Colvin"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 47.3,
+        "defense": 61.3,
+        "spacing": 98.0,
+        "playmaking": 53.7,
+        "rebounding": 31.8,
+        "versatility": 83.6,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.8
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 44.5,
+        "defense": 61.5,
+        "spacing": 93.0,
+        "playmaking": 46.0,
+        "rebounding": 43.2,
+        "versatility": 83.6,
+        "balance": 85.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 43.2
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 44.7,
+        "defense": 66.4,
+        "spacing": 93.0,
+        "playmaking": 44.0,
+        "rebounding": 30.0,
+        "versatility": 87.2,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.0
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 59.9,
+      "dimensions": {
+        "offense": 43.5,
+        "defense": 66.5,
+        "spacing": 93.0,
+        "playmaking": 42.4,
+        "rebounding": 33.7,
+        "versatility": 87.2,
+        "balance": 86.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.7
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 66.4,
+        "spacing": 93.0,
+        "playmaking": 37.9,
+        "rebounding": 31.3,
+        "versatility": 87.2,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 37.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.3
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 66.5,
+        "spacing": 93.0,
+        "playmaking": 36.2,
+        "rebounding": 34.9,
+        "versatility": 87.2,
+        "balance": 86.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.9
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 42.1,
+        "defense": 66.5,
+        "spacing": 93.0,
+        "playmaking": 36.1,
+        "rebounding": 36.4,
+        "versatility": 87.2,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Gicarri Harris"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 46.5,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 59.9,
+        "rebounding": 30.5,
+        "versatility": 71.6,
+        "balance": 64.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 71.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.5
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 58.9,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 53.6,
+        "rebounding": 33.3,
+        "versatility": 83.6,
+        "balance": 63.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.3
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.3
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "trey_kaufmanrenn_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Trey Kaufman-Renn",
+        "CJ Cox",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 58.9,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 61.4,
+        "spacing": 93.0,
+        "playmaking": 52.0,
+        "rebounding": 36.9,
+        "versatility": 83.6,
+        "balance": 64.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.9
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 58.6,
+      "dimensions": {
+        "offense": 45.4,
+        "defense": 66.3,
+        "spacing": 93.0,
+        "playmaking": 43.9,
+        "rebounding": 25.0,
+        "versatility": 87.2,
+        "balance": 64.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.0
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 58.2,
+      "dimensions": {
+        "offense": 44.5,
+        "defense": 66.3,
+        "spacing": 93.0,
+        "playmaking": 50.0,
+        "rebounding": 23.7,
+        "versatility": 75.2,
+        "balance": 64.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 75.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 23.7
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 43.2,
+        "defense": 66.4,
+        "spacing": 93.0,
+        "playmaking": 43.7,
+        "rebounding": 26.5,
+        "versatility": 87.2,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.5
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 42.1,
+        "defense": 66.5,
+        "spacing": 93.0,
+        "playmaking": 42.1,
+        "rebounding": 30.2,
+        "versatility": 87.2,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.2
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen"
+      ],
+      "composite": 56.8,
+      "dimensions": {
+        "offense": 52.6,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 4.2,
+        "rebounding": 43.7,
+        "versatility": 74.0,
+        "balance": 84.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.2
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Gicarri Harris"
+      ],
+      "composite": 56.5,
+      "dimensions": {
+        "offense": 41.2,
+        "defense": 61.1,
+        "spacing": 100.0,
+        "playmaking": 54.0,
+        "rebounding": 18.7,
+        "versatility": 68.0,
+        "balance": 64.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 68.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 18.7
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 56.4,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 4.1,
+        "rebounding": 45.3,
+        "versatility": 74.0,
+        "balance": 84.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.1
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 56.4,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 50.2,
+        "versatility": 72.8,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Myles Colvin"
+      ],
+      "composite": 56.3,
+      "dimensions": {
+        "offense": 42.0,
+        "defense": 61.1,
+        "spacing": 100.0,
+        "playmaking": 47.9,
+        "rebounding": 19.9,
+        "versatility": 68.0,
+        "balance": 64.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 68.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 19.9
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 56.3,
+      "dimensions": {
+        "offense": 51.5,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 46.5,
+        "versatility": 74.0,
+        "balance": 84.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 56.3,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 2.5,
+        "rebounding": 48.9,
+        "versatility": 72.8,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 2.5
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 55.9,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 66.7,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 51.7,
+        "versatility": 71.6,
+        "balance": 85.2
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 55.8,
+      "dimensions": {
+        "offense": 39.8,
+        "defense": 61.2,
+        "spacing": 100.0,
+        "playmaking": 47.8,
+        "rebounding": 21.5,
+        "versatility": 68.0,
+        "balance": 64.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 68.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 39.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 21.5
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Camden Heide",
+        "CJ Cox",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 55.6,
+      "dimensions": {
+        "offense": 38.5,
+        "defense": 61.3,
+        "spacing": 100.0,
+        "playmaking": 46.1,
+        "rebounding": 25.1,
+        "versatility": 68.0,
+        "balance": 64.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 68.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.1
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "braden_smith_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Braden Smith",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 54.9,
+      "dimensions": {
+        "offense": 39.8,
+        "defense": 61.1,
+        "spacing": 100.0,
+        "playmaking": 53.7,
+        "rebounding": 15.2,
+        "versatility": 56.8,
+        "balance": 59.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "defense",
+          "score": 61.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 39.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 15.2
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Gicarri Harris"
+      ],
+      "composite": 54.9,
+      "dimensions": {
+        "offense": 47.0,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 14.1,
+        "rebounding": 34.0,
+        "versatility": 70.4,
+        "balance": 63.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 70.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 34.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 14.1
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin"
+      ],
+      "composite": 54.9,
+      "dimensions": {
+        "offense": 51.0,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 4.0,
+        "rebounding": 40.3,
+        "versatility": 74.0,
+        "balance": 63.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 74.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.0
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Myles Colvin"
+      ],
+      "composite": 54.6,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 8.0,
+        "rebounding": 35.2,
+        "versatility": 70.4,
+        "balance": 63.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 70.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 8.0
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 54.6,
+      "dimensions": {
+        "offense": 50.2,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 10.1,
+        "rebounding": 39.0,
+        "versatility": 62.0,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 66.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 10.1
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 54.5,
+      "dimensions": {
+        "offense": 49.1,
+        "defense": 66.5,
+        "spacing": 78.0,
+        "playmaking": 3.9,
+        "rebounding": 41.8,
+        "versatility": 74.0,
+        "balance": 63.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 74.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 3.9
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 54.4,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 66.6,
+        "spacing": 78.0,
+        "playmaking": 2.2,
+        "rebounding": 45.4,
+        "versatility": 72.8,
+        "balance": 63.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 72.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 2.2
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Fletcher Loyer",
+        "Camden Heide",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 54.1,
+      "dimensions": {
+        "offense": 45.8,
+        "defense": 61.3,
+        "spacing": 93.0,
+        "playmaking": 7.9,
+        "rebounding": 36.7,
+        "versatility": 70.4,
+        "balance": 62.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 70.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 7.9
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "fletcher_loyer_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "daniel_jacobsen_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Fletcher Loyer",
+        "Camden Heide",
+        "CJ Cox",
+        "Daniel Jacobsen",
+        "Gicarri Harris"
+      ],
+      "composite": 54.1,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 66.3,
+        "spacing": 93.0,
+        "playmaking": 4.2,
+        "rebounding": 27.2,
+        "versatility": 74.0,
+        "balance": 64.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 74.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 27.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.2
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "trey_kaufmanrenn_purdue",
+        "camden_heide_purdue",
+        "cj_cox_purdue",
+        "myles_colvin_purdue",
+        "gicarri_harris_purdue"
+      ],
+      "playerNames": [
+        "Trey Kaufman-Renn",
+        "Camden Heide",
+        "CJ Cox",
+        "Myles Colvin",
+        "Gicarri Harris"
+      ],
+      "composite": 54.0,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 61.4,
+        "spacing": 93.0,
+        "playmaking": 6.2,
+        "rebounding": 40.4,
+        "versatility": 69.2,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 69.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 6.2
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

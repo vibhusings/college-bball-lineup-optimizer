@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-05-28T17:45:33Z",
+  "season": "2024-25",
+  "teams": [
+    {
+      "teamId": "auburn",
+      "teamName": "Auburn",
+      "playerCount": 8,
+      "topLineupScore": 63.6
+    },
+    {
+      "teamId": "duke",
+      "teamName": "Duke",
+      "playerCount": 10,
+      "topLineupScore": 64.7
+    },
+    {
+      "teamId": "florida",
+      "teamName": "Florida",
+      "playerCount": 8,
+      "topLineupScore": 64.6
+    },
+    {
+      "teamId": "houston",
+      "teamName": "Houston",
+      "playerCount": 8,
+      "topLineupScore": 68.1
+    },
+    {
+      "teamId": "kansas",
+      "teamName": "Kansas",
+      "playerCount": 8,
+      "topLineupScore": 59.8
+    },
+    {
+      "teamId": "marquette",
+      "teamName": "Marquette",
+      "playerCount": 8,
+      "topLineupScore": 63.4
+    },
+    {
+      "teamId": "purdue",
+      "teamName": "Purdue",
+      "playerCount": 8,
+      "topLineupScore": 62.1
+    },
+    {
+      "teamId": "st_johns",
+      "teamName": "St Johns",
+      "playerCount": 8,
+      "topLineupScore": 61.6
+    },
+    {
+      "teamId": "tennessee",
+      "teamName": "Tennessee",
+      "playerCount": 8,
+      "topLineupScore": 66.0
+    },
+    {
+      "teamId": "uconn",
+      "teamName": "UConn",
+      "playerCount": 8,
+      "topLineupScore": 63.9
+    }
+  ]
+}

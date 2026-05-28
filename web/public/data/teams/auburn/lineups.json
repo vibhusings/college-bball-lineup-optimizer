@@ -1,0 +1,2313 @@
+{
+  "teamId": "auburn",
+  "teamName": "Auburn",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 63.6,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 74.8,
+        "spacing": 78.0,
+        "playmaking": 46.4,
+        "rebounding": 55.5,
+        "versatility": 96.8,
+        "balance": 85.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 85.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 46.4
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 63.4,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 74.8,
+        "spacing": 78.0,
+        "playmaking": 48.2,
+        "rebounding": 56.6,
+        "versatility": 96.8,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 48.2
+        },
+        {
+          "dimension": "offense",
+          "score": 44.8
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 74.9,
+        "spacing": 78.0,
+        "playmaking": 45.1,
+        "rebounding": 55.8,
+        "versatility": 87.2,
+        "balance": 76.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 45.1
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 74.7,
+        "spacing": 93.0,
+        "playmaking": 50.1,
+        "rebounding": 45.5,
+        "versatility": 84.8,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.5
+        },
+        {
+          "dimension": "offense",
+          "score": 44.6
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 63.0,
+      "dimensions": {
+        "offense": 51.6,
+        "defense": 74.7,
+        "spacing": 78.0,
+        "playmaking": 31.2,
+        "rebounding": 47.6,
+        "versatility": 99.2,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 99.2
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.2
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 62.9,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 74.9,
+        "spacing": 78.0,
+        "playmaking": 47.0,
+        "rebounding": 56.9,
+        "versatility": 87.2,
+        "balance": 74.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.0
+        },
+        {
+          "dimension": "offense",
+          "score": 46.7
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 62.8,
+      "dimensions": {
+        "offense": 45.9,
+        "defense": 74.9,
+        "spacing": 78.0,
+        "playmaking": 42.1,
+        "rebounding": 59.8,
+        "versatility": 84.8,
+        "balance": 84.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "balance",
+          "score": 84.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 42.1
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 62.7,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 74.7,
+        "spacing": 78.0,
+        "playmaking": 33.1,
+        "rebounding": 48.7,
+        "versatility": 99.2,
+        "balance": 86.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 99.2
+        },
+        {
+          "dimension": "balance",
+          "score": 86.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.1
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford"
+      ],
+      "composite": 62.5,
+      "dimensions": {
+        "offense": 42.4,
+        "defense": 77.6,
+        "spacing": 78.0,
+        "playmaking": 66.5,
+        "rebounding": 39.2,
+        "versatility": 84.8,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.2
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 62.4,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 75.1,
+        "spacing": 78.0,
+        "playmaking": 40.9,
+        "rebounding": 60.1,
+        "versatility": 75.2,
+        "balance": 74.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 75.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.9
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 62.3,
+      "dimensions": {
+        "offense": 51.0,
+        "defense": 74.8,
+        "spacing": 78.0,
+        "playmaking": 27.0,
+        "rebounding": 51.9,
+        "versatility": 87.2,
+        "balance": 86.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 86.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 27.0
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 40.7,
+        "defense": 77.6,
+        "spacing": 78.0,
+        "playmaking": 68.4,
+        "rebounding": 40.3,
+        "versatility": 84.8,
+        "balance": 74.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.3
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 61.8,
+      "dimensions": {
+        "offense": 49.4,
+        "defense": 74.6,
+        "spacing": 93.0,
+        "playmaking": 35.0,
+        "rebounding": 32.7,
+        "versatility": 87.2,
+        "balance": 64.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 35.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.7
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 61.6,
+      "dimensions": {
+        "offense": 41.7,
+        "defense": 77.7,
+        "spacing": 78.0,
+        "playmaking": 62.3,
+        "rebounding": 43.5,
+        "versatility": 72.8,
+        "balance": 74.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 77.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.5
+        },
+        {
+          "dimension": "offense",
+          "score": 41.7
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 75.1,
+        "spacing": 55.0,
+        "playmaking": 37.1,
+        "rebounding": 70.0,
+        "versatility": 87.2,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.1
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 75.0,
+        "spacing": 55.0,
+        "playmaking": 43.2,
+        "rebounding": 66.8,
+        "versatility": 87.2,
+        "balance": 84.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 43.2
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 46.8,
+        "defense": 77.5,
+        "spacing": 78.0,
+        "playmaking": 51.4,
+        "rebounding": 26.4,
+        "versatility": 87.2,
+        "balance": 78.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 78.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.4
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Jaylin Williams"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 44.2,
+        "defense": 77.7,
+        "spacing": 78.0,
+        "playmaking": 48.1,
+        "rebounding": 44.6,
+        "versatility": 83.6,
+        "balance": 62.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.6
+        },
+        {
+          "dimension": "offense",
+          "score": 44.2
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 61.0,
+      "dimensions": {
+        "offense": 48.1,
+        "defense": 75.1,
+        "spacing": 55.0,
+        "playmaking": 39.0,
+        "rebounding": 71.1,
+        "versatility": 87.2,
+        "balance": 83.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 83.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 39.0
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 69.5,
+        "spacing": 98.0,
+        "playmaking": 36.2,
+        "rebounding": 37.4,
+        "versatility": 82.4,
+        "balance": 64.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 37.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.2
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 60.7,
+      "dimensions": {
+        "offense": 44.7,
+        "defense": 77.5,
+        "spacing": 78.0,
+        "playmaking": 53.2,
+        "rebounding": 27.5,
+        "versatility": 87.2,
+        "balance": 76.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 27.5
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 43.5,
+        "defense": 77.8,
+        "spacing": 55.0,
+        "playmaking": 58.5,
+        "rebounding": 53.5,
+        "versatility": 84.8,
+        "balance": 85.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.4
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.5
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Chaney Johnson"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 77.8,
+        "spacing": 55.0,
+        "playmaking": 44.4,
+        "rebounding": 54.6,
+        "versatility": 95.6,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "balance",
+          "score": 85.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 44.4
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 77.6,
+        "spacing": 78.0,
+        "playmaking": 47.1,
+        "rebounding": 30.7,
+        "versatility": 75.2,
+        "balance": 76.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 77.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.7
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 41.7,
+        "defense": 77.8,
+        "spacing": 55.0,
+        "playmaking": 60.4,
+        "rebounding": 54.6,
+        "versatility": 84.8,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 41.7
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 47.9,
+        "defense": 77.9,
+        "spacing": 55.0,
+        "playmaking": 43.1,
+        "rebounding": 54.9,
+        "versatility": 86.0,
+        "balance": 75.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "defense",
+          "score": 77.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 43.1
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 45.4,
+        "defense": 77.9,
+        "spacing": 55.0,
+        "playmaking": 57.2,
+        "rebounding": 53.8,
+        "versatility": 75.2,
+        "balance": 75.9
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 77.9
+        },
+        {
+          "dimension": "balance",
+          "score": 75.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.4
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Jaylin Williams"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 77.6,
+        "spacing": 78.0,
+        "playmaking": 33.0,
+        "rebounding": 31.8,
+        "versatility": 86.0,
+        "balance": 64.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 33.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.8
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 48.2,
+        "defense": 77.7,
+        "spacing": 55.0,
+        "playmaking": 43.4,
+        "rebounding": 45.6,
+        "versatility": 87.2,
+        "balance": 87.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 87.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 43.4
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 77.9,
+        "spacing": 55.0,
+        "playmaking": 40.1,
+        "rebounding": 58.9,
+        "versatility": 83.6,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 84.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.1
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 74.7,
+        "spacing": 55.0,
+        "playmaking": 64.6,
+        "rebounding": 50.3,
+        "versatility": 84.8,
+        "balance": 85.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 43.7,
+        "defense": 77.9,
+        "spacing": 55.0,
+        "playmaking": 59.1,
+        "rebounding": 54.9,
+        "versatility": 75.2,
+        "balance": 74.3
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 77.9
+        },
+        {
+          "dimension": "versatility",
+          "score": 75.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.7
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 72.3,
+        "spacing": 78.0,
+        "playmaking": 52.6,
+        "rebounding": 31.1,
+        "versatility": 82.4,
+        "balance": 77.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.1
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Miles Kelly",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 74.8,
+        "spacing": 55.0,
+        "playmaking": 46.2,
+        "rebounding": 55.7,
+        "versatility": 95.6,
+        "balance": 84.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "balance",
+          "score": 84.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.2
+        },
+        {
+          "dimension": "offense",
+          "score": 44.4
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 54.2,
+        "defense": 74.8,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 53.0,
+        "versatility": 82.4,
+        "balance": 64.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Jaylin Williams"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 47.4,
+        "defense": 78.1,
+        "spacing": 55.0,
+        "playmaking": 38.9,
+        "rebounding": 59.2,
+        "versatility": 74.0,
+        "balance": 74.4
+      },
+      "strengths": [
+        {
+          "dimension": "defense",
+          "score": 78.1
+        },
+        {
+          "dimension": "balance",
+          "score": 74.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 38.9
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 74.8,
+        "spacing": 55.0,
+        "playmaking": 63.4,
+        "rebounding": 50.6,
+        "versatility": 75.2,
+        "balance": 75.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 75.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 75.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.4
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 74.9,
+        "spacing": 78.0,
+        "playmaking": 10.0,
+        "rebounding": 60.9,
+        "versatility": 80.0,
+        "balance": 62.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 80.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 10.0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Chaney Johnson"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 51.2,
+        "defense": 74.7,
+        "spacing": 55.0,
+        "playmaking": 29.2,
+        "rebounding": 46.8,
+        "versatility": 98.0,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.2
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 72.3,
+        "spacing": 98.0,
+        "playmaking": 56.4,
+        "rebounding": 16.2,
+        "versatility": 68.0,
+        "balance": 59.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "defense",
+          "score": 72.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 16.2
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Dylan Cardwell",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 77.8,
+        "spacing": 55.0,
+        "playmaking": 25.0,
+        "rebounding": 51.1,
+        "versatility": 86.0,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 25.0
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Miles Kelly",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 42.4,
+        "defense": 72.3,
+        "spacing": 78.0,
+        "playmaking": 54.5,
+        "rebounding": 32.2,
+        "versatility": 82.4,
+        "balance": 76.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.2
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Denver Jones",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Jaylin Williams"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 46.3,
+        "defense": 74.9,
+        "spacing": 55.0,
+        "playmaking": 45.0,
+        "rebounding": 56.0,
+        "versatility": 86.0,
+        "balance": 74.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "defense",
+          "score": 74.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 45.0
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Jaylin Williams"
+      ],
+      "composite": 58.9,
+      "dimensions": {
+        "offense": 50.3,
+        "defense": 75.1,
+        "spacing": 78.0,
+        "playmaking": 8.8,
+        "rebounding": 61.2,
+        "versatility": 70.4,
+        "balance": 56.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "defense",
+          "score": 75.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 8.8
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Chaney Johnson"
+      ],
+      "composite": 58.9,
+      "dimensions": {
+        "offense": 46.9,
+        "defense": 74.5,
+        "spacing": 55.0,
+        "playmaking": 49.5,
+        "rebounding": 42.5,
+        "versatility": 87.2,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 49.2,
+        "defense": 74.7,
+        "spacing": 55.0,
+        "playmaking": 31.1,
+        "rebounding": 47.9,
+        "versatility": 98.0,
+        "balance": 86.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.1
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 58.6,
+      "dimensions": {
+        "offense": 43.6,
+        "defense": 72.5,
+        "spacing": 78.0,
+        "playmaking": 48.4,
+        "rebounding": 35.4,
+        "versatility": 70.4,
+        "balance": 76.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.4
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "dylan_cardwell_auburn",
+        "tahaad_pettiford_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Dylan Cardwell",
+        "Tahaad Pettiford",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 58.6,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 74.7,
+        "spacing": 55.0,
+        "playmaking": 45.2,
+        "rebounding": 46.7,
+        "versatility": 87.2,
+        "balance": 86.5
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 86.5
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 45.2
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "denver_jones_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "jaylin_williams_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Denver Jones",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Jaylin Williams",
+        "Chaney Johnson"
+      ],
+      "composite": 58.2,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 72.5,
+        "spacing": 78.0,
+        "playmaking": 34.2,
+        "rebounding": 36.5,
+        "versatility": 81.2,
+        "balance": 64.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.2
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "johni_broome_auburn",
+        "chad_bakermazara_auburn",
+        "miles_kelly_auburn",
+        "dylan_cardwell_auburn",
+        "chaney_johnson_auburn"
+      ],
+      "playerNames": [
+        "Johni Broome",
+        "Chad Baker-Mazara",
+        "Miles Kelly",
+        "Dylan Cardwell",
+        "Chaney Johnson"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 52.1,
+        "defense": 75.1,
+        "spacing": 55.0,
+        "playmaking": 5.0,
+        "rebounding": 71.1,
+        "versatility": 82.4,
+        "balance": 74.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "defense",
+          "score": 75.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 5.0
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}
