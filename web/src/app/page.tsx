@@ -1,65 +1,103 @@
-import Image from "next/image";
+import { Manifest } from "@/types";
+import fs from "fs";
+import path from "path";
+import Link from "next/link";
 
-export default function Home() {
+async function getManifest(): Promise<Manifest> {
+  const filePath = path.join(process.cwd(), "public", "data", "manifest.json");
+  const raw = fs.readFileSync(filePath, "utf-8");
+  return JSON.parse(raw);
+}
+
+export default async function Home() {
+  const manifest = await getManifest();
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+      {/* Hero */}
+      <div className="text-center mb-10">
+        <h1 className="text-4xl font-bold text-gray-900 mb-3">
+          College Basketball Lineup Optimizer
+        </h1>
+        <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          Analyze every possible 5-man lineup combination using advanced stats.
+          Surface optimal units, identify hidden-gem combos, and build custom
+          lineups with real-time scoring.
+        </p>
+        <div className="flex items-center justify-center gap-6 mt-5 text-sm text-gray-500">
+          <div className="flex items-center gap-1.5">
+            <span className="w-2 h-2 rounded-full bg-blue-500" />
+            {manifest.teams.length} Teams
+          </div>
+          <div className="flex items-center gap-1.5">
+            <span className="w-2 h-2 rounded-full bg-green-500" />
+            {manifest.season} Season
+          </div>
+          <div className="flex items-center gap-1.5">
+            <span className="w-2 h-2 rounded-full bg-purple-500" />7 Scoring
+            Dimensions
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+      </div>
+
+      {/* How it works */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">
+        {[
+          {
+            title: "Player Profiles",
+            desc: "Each player is classified into an archetype with a 6-dimension skill radar based on ORtg, DRtg, usage, shooting, and more.",
+            icon: "\u{1F464}",
+          },
+          {
+            title: "Lineup Scoring",
+            desc: "Every 5-man combination is scored across offense, defense, spacing, playmaking, rebounding, versatility, and balance.",
+            icon: "\u{1F4CA}",
+          },
+          {
+            title: "Interactive Builder",
+            desc: "Build custom lineups and see real-time composite scores. Compare units side-by-side to optimize rotations.",
+            icon: "⚙️",
+          },
+        ].map((item) => (
+          <div
+            key={item.title}
+            className="bg-white rounded-lg border border-gray-200 p-5"
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            <div className="text-2xl mb-2">{item.icon}</div>
+            <h3 className="font-semibold text-gray-900 mb-1">{item.title}</h3>
+            <p className="text-sm text-gray-600">{item.desc}</p>
+          </div>
+        ))}
+      </div>
+
+      {/* Team grid */}
+      <h2 className="text-xl font-bold text-gray-900 mb-4">Select a Team</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
+        {manifest.teams.map((team) => (
+          <Link
+            key={team.teamId}
+            href={`/team/${team.teamId}`}
+            className="group bg-white rounded-lg border border-gray-200 p-4 hover:border-blue-300 hover:shadow-md transition-all"
           >
-            Documentation
-          </a>
-        </div>
-      </main>
+            <div className="flex items-center justify-between">
+              <div>
+                <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
+                  {team.teamName}
+                </h3>
+                <p className="text-xs text-gray-500 mt-0.5">
+                  {team.playerCount} rotation players
+                </p>
+              </div>
+              <div className="text-right">
+                <div className="text-lg font-bold text-blue-600">
+                  {team.topLineupScore}
+                </div>
+                <div className="text-xs text-gray-400">Top lineup</div>
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
     </div>
   );
 }
