@@ -1,0 +1,2333 @@
+{
+  "teamId": "alabama",
+  "teamName": "Alabama",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Chris Youngblood"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 36.9,
+        "rebounding": 42.5,
+        "versatility": 84.8,
+        "balance": 57.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.9
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 49.5,
+        "rebounding": 40.6,
+        "versatility": 86.0,
+        "balance": 58.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.6
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 47.9,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 36.1,
+        "rebounding": 41.2,
+        "versatility": 86.0,
+        "balance": 57.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.1
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Derrion Reid"
+      ],
+      "composite": 59.9,
+      "dimensions": {
+        "offense": 47.0,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 35.9,
+        "rebounding": 51.2,
+        "versatility": 96.8,
+        "balance": 75.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.9
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 50.5,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 22.5,
+        "rebounding": 51.8,
+        "versatility": 96.8,
+        "balance": 75.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 22.5
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 48.6,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 34.2,
+        "rebounding": 54.3,
+        "versatility": 84.8,
+        "balance": 57.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 34.2
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Derrion Reid"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 46.0,
+        "defense": 67.0,
+        "spacing": 78.0,
+        "playmaking": 35.1,
+        "rebounding": 50.0,
+        "versatility": 86.0,
+        "balance": 75.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 35.1
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 52.1,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 20.9,
+        "rebounding": 54.9,
+        "versatility": 84.8,
+        "balance": 57.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 20.9
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 58.3,
+      "dimensions": {
+        "offense": 46.7,
+        "defense": 61.9,
+        "spacing": 93.0,
+        "playmaking": 39.8,
+        "rebounding": 35.4,
+        "versatility": 83.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.4
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Derrion Reid"
+      ],
+      "composite": 58.2,
+      "dimensions": {
+        "offense": 42.6,
+        "defense": 61.8,
+        "spacing": 93.0,
+        "playmaking": 52.4,
+        "rebounding": 33.5,
+        "versatility": 84.8,
+        "balance": 64.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.5
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Chris Youngblood"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 61.7,
+        "spacing": 100.0,
+        "playmaking": 53.4,
+        "rebounding": 24.7,
+        "versatility": 72.8,
+        "balance": 58.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 72.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 24.7
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 61.9,
+        "spacing": 93.0,
+        "playmaking": 38.1,
+        "rebounding": 38.4,
+        "versatility": 71.6,
+        "balance": 57.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 71.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 38.1
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 47.6,
+        "defense": 67.0,
+        "spacing": 78.0,
+        "playmaking": 33.5,
+        "rebounding": 53.0,
+        "versatility": 74.0,
+        "balance": 57.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 74.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.5
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 66.7,
+        "spacing": 93.0,
+        "playmaking": 43.6,
+        "rebounding": 29.6,
+        "versatility": 74.0,
+        "balance": 57.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 74.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.6
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Mouhamed Dioubate"
+      ],
+      "composite": 57.9,
+      "dimensions": {
+        "offense": 44.1,
+        "defense": 61.8,
+        "spacing": 93.0,
+        "playmaking": 50.8,
+        "rebounding": 36.5,
+        "versatility": 72.8,
+        "balance": 58.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 72.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.5
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 45.6,
+        "defense": 61.8,
+        "spacing": 93.0,
+        "playmaking": 39.0,
+        "rebounding": 34.1,
+        "versatility": 84.8,
+        "balance": 63.5
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 39.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.1
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Labaron Philon",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 57.5,
+      "dimensions": {
+        "offense": 46.3,
+        "defense": 62.0,
+        "spacing": 78.0,
+        "playmaking": 37.1,
+        "rebounding": 47.2,
+        "versatility": 83.6,
+        "balance": 75.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.1
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 57.5,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 61.8,
+        "spacing": 93.0,
+        "playmaking": 37.4,
+        "rebounding": 37.1,
+        "versatility": 72.8,
+        "balance": 57.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 72.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 37.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.1
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 57.3,
+      "dimensions": {
+        "offense": 48.8,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 28.4,
+        "rebounding": 43.2,
+        "versatility": 84.8,
+        "balance": 57.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.4
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 62.0,
+        "spacing": 78.0,
+        "playmaking": 23.8,
+        "rebounding": 47.8,
+        "versatility": 83.6,
+        "balance": 75.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 23.8
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 44.5,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 41.0,
+        "rebounding": 41.4,
+        "versatility": 86.0,
+        "balance": 57.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.0
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 45.8,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 14.2,
+        "rebounding": 41.2,
+        "versatility": 86.0,
+        "balance": 59.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 14.2
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 57.0,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 30.0,
+        "rebounding": 40.2,
+        "versatility": 84.8,
+        "balance": 63.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 40.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.0
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Derrion Reid"
+      ],
+      "composite": 56.9,
+      "dimensions": {
+        "offense": 42.9,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 42.6,
+        "rebounding": 38.3,
+        "versatility": 86.0,
+        "balance": 63.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.3
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 56.9,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 27.6,
+        "rebounding": 42.0,
+        "versatility": 86.0,
+        "balance": 57.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.6
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Derrion Reid"
+      ],
+      "composite": 56.7,
+      "dimensions": {
+        "offense": 43.8,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 13.2,
+        "rebounding": 50.0,
+        "versatility": 98.0,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 13.2
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 56.5,
+      "dimensions": {
+        "offense": 46.1,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 29.2,
+        "rebounding": 38.9,
+        "versatility": 86.0,
+        "balance": 63.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.2
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 56.5,
+      "dimensions": {
+        "offense": 47.2,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 50.6,
+        "versatility": 98.0,
+        "balance": 77.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 56.4,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 61.9,
+        "spacing": 78.0,
+        "playmaking": 36.4,
+        "rebounding": 45.9,
+        "versatility": 72.8,
+        "balance": 75.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 36.4
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 56.2,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 0.6,
+        "rebounding": 51.8,
+        "versatility": 83.6,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0.6
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 56.0,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 61.7,
+        "spacing": 98.0,
+        "playmaking": 46.5,
+        "rebounding": 22.5,
+        "versatility": 68.0,
+        "balance": 57.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 68.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 22.5
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 55.8,
+      "dimensions": {
+        "offense": 50.1,
+        "defense": 67.2,
+        "spacing": 55.0,
+        "playmaking": 19.9,
+        "rebounding": 63.6,
+        "versatility": 84.8,
+        "balance": 63.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "defense",
+          "score": 67.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 19.9
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate"
+      ],
+      "composite": 55.8,
+      "dimensions": {
+        "offense": 45.4,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 11.6,
+        "rebounding": 53.0,
+        "versatility": 86.0,
+        "balance": 58.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 11.6
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 55.8,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 53.6,
+        "versatility": 86.0,
+        "balance": 59.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 49.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 55.6,
+      "dimensions": {
+        "offense": 46.8,
+        "defense": 67.1,
+        "spacing": 55.0,
+        "playmaking": 27.4,
+        "rebounding": 52.0,
+        "versatility": 96.8,
+        "balance": 75.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 75.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.4
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 55.6,
+      "dimensions": {
+        "offense": 44.1,
+        "defense": 61.7,
+        "spacing": 93.0,
+        "playmaking": 44.9,
+        "rebounding": 20.5,
+        "versatility": 71.6,
+        "balance": 57.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 71.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 20.5
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 55.5,
+      "dimensions": {
+        "offense": 50.1,
+        "defense": 67.1,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 54.9,
+        "versatility": 71.6,
+        "balance": 58.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 71.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 55.4,
+      "dimensions": {
+        "offense": 50.4,
+        "defense": 67.1,
+        "spacing": 55.0,
+        "playmaking": 14.0,
+        "rebounding": 52.6,
+        "versatility": 96.8,
+        "balance": 75.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "balance",
+          "score": 75.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 14.0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 55.1,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 61.9,
+        "spacing": 78.0,
+        "playmaking": 31.2,
+        "rebounding": 36.2,
+        "versatility": 82.4,
+        "balance": 63.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.2
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 55.0,
+      "dimensions": {
+        "offense": 42.2,
+        "defense": 61.8,
+        "spacing": 78.0,
+        "playmaking": 43.9,
+        "rebounding": 34.3,
+        "versatility": 83.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.3
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 55.0,
+      "dimensions": {
+        "offense": 43.4,
+        "defense": 61.9,
+        "spacing": 93.0,
+        "playmaking": 17.1,
+        "rebounding": 34.1,
+        "versatility": 84.8,
+        "balance": 64.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 34.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 17.1
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 54.8,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 61.9,
+        "spacing": 93.0,
+        "playmaking": 15.5,
+        "rebounding": 37.1,
+        "versatility": 72.8,
+        "balance": 58.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 72.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 37.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 15.5
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 54.6,
+      "dimensions": {
+        "offense": 45.3,
+        "defense": 61.8,
+        "spacing": 78.0,
+        "playmaking": 30.5,
+        "rebounding": 34.9,
+        "versatility": 83.6,
+        "balance": 63.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 34.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 30.5
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "mark_sears_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Mark Sears",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 54.5,
+      "dimensions": {
+        "offense": 45.7,
+        "defense": 67.0,
+        "spacing": 55.0,
+        "playmaking": 26.6,
+        "rebounding": 50.7,
+        "versatility": 86.0,
+        "balance": 75.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.6
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "clifford_omoruyi_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Clifford Omoruyi",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 54.4,
+      "dimensions": {
+        "offense": 51.8,
+        "defense": 67.3,
+        "spacing": 55.0,
+        "playmaking": 0,
+        "rebounding": 64.2,
+        "versatility": 81.2,
+        "balance": 66.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "defense",
+          "score": 67.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Derrion Reid"
+      ],
+      "composite": 54.2,
+      "dimensions": {
+        "offense": 43.0,
+        "defense": 62.0,
+        "spacing": 78.0,
+        "playmaking": 14.5,
+        "rebounding": 45.9,
+        "versatility": 84.8,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 43.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 14.5
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama"
+      ],
+      "playerNames": [
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood"
+      ],
+      "composite": 54.1,
+      "dimensions": {
+        "offense": 45.5,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 5.8,
+        "rebounding": 42.0,
+        "versatility": 86.0,
+        "balance": 58.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 5.8
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "aden_holloway_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Aden Holloway",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 54.0,
+      "dimensions": {
+        "offense": 46.4,
+        "defense": 62.0,
+        "spacing": 78.0,
+        "playmaking": 1.1,
+        "rebounding": 46.5,
+        "versatility": 84.8,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 46.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 1.1
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "grant_nelson_alabama",
+        "labaron_philon_alabama",
+        "mouhamed_dioubate_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Grant Nelson",
+        "Labaron Philon",
+        "Mouhamed Dioubate",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 53.8,
+      "dimensions": {
+        "offense": 47.5,
+        "defense": 62.1,
+        "spacing": 78.0,
+        "playmaking": 1.9,
+        "rebounding": 47.8,
+        "versatility": 70.4,
+        "balance": 76.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 1.9
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "labaron_philon_alabama",
+        "clifford_omoruyi_alabama",
+        "aden_holloway_alabama",
+        "chris_youngblood_alabama",
+        "derrion_reid_alabama"
+      ],
+      "playerNames": [
+        "Labaron Philon",
+        "Clifford Omoruyi",
+        "Aden Holloway",
+        "Chris Youngblood",
+        "Derrion Reid"
+      ],
+      "composite": 53.7,
+      "dimensions": {
+        "offense": 43.8,
+        "defense": 66.9,
+        "spacing": 78.0,
+        "playmaking": 7.4,
+        "rebounding": 39.0,
+        "versatility": 86.0,
+        "balance": 64.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 7.4
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

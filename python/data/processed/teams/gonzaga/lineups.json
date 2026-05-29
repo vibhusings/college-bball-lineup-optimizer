@@ -1,0 +1,2301 @@
+{
+  "teamId": "gonzaga",
+  "teamName": "Gonzaga",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 66.0,
+      "dimensions": {
+        "offense": 57.7,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 40.5,
+        "rebounding": 46.4,
+        "versatility": 84.8,
+        "balance": 87.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 40.5
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 65.9,
+      "dimensions": {
+        "offense": 54.9,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 51.2,
+        "rebounding": 36.4,
+        "versatility": 96.8,
+        "balance": 88.6
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.4
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 65.9,
+      "dimensions": {
+        "offense": 56.7,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 47.8,
+        "rebounding": 40.8,
+        "versatility": 84.8,
+        "balance": 87.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 40.8
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Michael Ajayi"
+      ],
+      "composite": 65.8,
+      "dimensions": {
+        "offense": 57.5,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 37.9,
+        "rebounding": 48.1,
+        "versatility": 84.8,
+        "balance": 85.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.9
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 65.8,
+      "dimensions": {
+        "offense": 55.9,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 49.2,
+        "rebounding": 35.4,
+        "versatility": 96.8,
+        "balance": 87.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 49.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.4
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman"
+      ],
+      "composite": 65.7,
+      "dimensions": {
+        "offense": 54.9,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 48.6,
+        "rebounding": 38.2,
+        "versatility": 96.8,
+        "balance": 86.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 48.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.2
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 65.7,
+      "dimensions": {
+        "offense": 56.6,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 45.1,
+        "rebounding": 42.6,
+        "versatility": 84.8,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 45.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 42.6
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 65.6,
+      "dimensions": {
+        "offense": 55.8,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 46.6,
+        "rebounding": 37.2,
+        "versatility": 95.6,
+        "balance": 85.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.2
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Braden Huff"
+      ],
+      "composite": 65.4,
+      "dimensions": {
+        "offense": 54.9,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 45.6,
+        "rebounding": 37.3,
+        "versatility": 96.8,
+        "balance": 87.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 45.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.3
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 65.4,
+      "dimensions": {
+        "offense": 56.7,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 42.1,
+        "rebounding": 41.7,
+        "versatility": 84.8,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 41.7
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg"
+      ],
+      "composite": 65.3,
+      "dimensions": {
+        "offense": 54.9,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 43.0,
+        "rebounding": 39.1,
+        "versatility": 96.8,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.1
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 65.3,
+      "dimensions": {
+        "offense": 55.8,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 43.6,
+        "rebounding": 36.3,
+        "versatility": 96.8,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 43.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.3
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Michael Ajayi"
+      ],
+      "composite": 65.2,
+      "dimensions": {
+        "offense": 56.5,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 39.5,
+        "rebounding": 43.5,
+        "versatility": 84.8,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 39.5
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Michael Ajayi"
+      ],
+      "composite": 65.1,
+      "dimensions": {
+        "offense": 55.7,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 41.0,
+        "rebounding": 38.1,
+        "versatility": 95.6,
+        "balance": 86.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 41.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 38.1
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 65.1,
+      "dimensions": {
+        "offense": 54.3,
+        "defense": 69.8,
+        "spacing": 100.0,
+        "playmaking": 47.6,
+        "rebounding": 34.6,
+        "versatility": 84.8,
+        "balance": 77.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.6
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Michael Ajayi"
+      ],
+      "composite": 64.6,
+      "dimensions": {
+        "offense": 54.3,
+        "defense": 69.8,
+        "spacing": 100.0,
+        "playmaking": 42.0,
+        "rebounding": 35.5,
+        "versatility": 84.8,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 42.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 35.5
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 64.6,
+      "dimensions": {
+        "offense": 53.9,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 52.9,
+        "rebounding": 31.8,
+        "versatility": 84.8,
+        "balance": 87.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 31.8
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 64.6,
+      "dimensions": {
+        "offense": 54.8,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 50.9,
+        "rebounding": 30.8,
+        "versatility": 84.8,
+        "balance": 87.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 30.8
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Nolan Hickman"
+      ],
+      "composite": 64.5,
+      "dimensions": {
+        "offense": 54.0,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 50.2,
+        "rebounding": 33.5,
+        "versatility": 84.8,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 33.5
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 64.4,
+      "dimensions": {
+        "offense": 54.8,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 48.2,
+        "rebounding": 32.5,
+        "versatility": 83.6,
+        "balance": 85.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 85.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 48.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.5
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Braden Huff"
+      ],
+      "composite": 64.3,
+      "dimensions": {
+        "offense": 58.0,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 41.5,
+        "rebounding": 49.9,
+        "versatility": 84.8,
+        "balance": 86.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 49.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.5
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 64.2,
+      "dimensions": {
+        "offense": 59.0,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 39.5,
+        "rebounding": 48.9,
+        "versatility": 84.8,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 39.5
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 64.2,
+      "dimensions": {
+        "offense": 57.1,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 48.7,
+        "rebounding": 44.4,
+        "versatility": 84.8,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 48.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 44.4
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 64.1,
+      "dimensions": {
+        "offense": 58.1,
+        "defense": 69.8,
+        "spacing": 78.0,
+        "playmaking": 46.8,
+        "rebounding": 43.3,
+        "versatility": 84.8,
+        "balance": 85.8
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.8
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 46.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 43.3
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 63.8,
+      "dimensions": {
+        "offense": 59.8,
+        "defense": 70.0,
+        "spacing": 78.0,
+        "playmaking": 38.0,
+        "rebounding": 54.3,
+        "versatility": 72.8,
+        "balance": 75.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 38.0
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 63.8,
+      "dimensions": {
+        "offense": 53.3,
+        "defense": 69.7,
+        "spacing": 100.0,
+        "playmaking": 49.2,
+        "rebounding": 30.0,
+        "versatility": 72.8,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 49.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.0
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Braden Huff"
+      ],
+      "composite": 63.7,
+      "dimensions": {
+        "offense": 57.0,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 43.1,
+        "rebounding": 45.3,
+        "versatility": 84.8,
+        "balance": 86.6
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 86.6
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 43.1
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 63.6,
+      "dimensions": {
+        "offense": 57.9,
+        "defense": 69.8,
+        "spacing": 78.0,
+        "playmaking": 41.1,
+        "rebounding": 44.3,
+        "versatility": 84.8,
+        "balance": 85.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 85.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 41.1
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman"
+      ],
+      "composite": 63.3,
+      "dimensions": {
+        "offense": 51.7,
+        "defense": 69.7,
+        "spacing": 100.0,
+        "playmaking": 52.7,
+        "rebounding": 25.6,
+        "versatility": 84.8,
+        "balance": 65.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 25.6
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 53.1,
+        "defense": 69.6,
+        "spacing": 98.0,
+        "playmaking": 54.4,
+        "rebounding": 21.4,
+        "versatility": 84.8,
+        "balance": 65.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 98.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 21.4
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 63.1,
+      "dimensions": {
+        "offense": 52.5,
+        "defense": 69.6,
+        "spacing": 100.0,
+        "playmaking": 50.8,
+        "rebounding": 24.6,
+        "versatility": 82.4,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 24.6
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 62.5,
+      "dimensions": {
+        "offense": 56.3,
+        "defense": 69.7,
+        "spacing": 78.0,
+        "playmaking": 50.2,
+        "rebounding": 33.9,
+        "versatility": 84.8,
+        "balance": 76.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 33.9
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Nolan Hickman"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 53.2,
+        "defense": 69.6,
+        "spacing": 93.0,
+        "playmaking": 51.8,
+        "rebounding": 23.1,
+        "versatility": 83.6,
+        "balance": 64.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 23.1
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Braden Huff"
+      ],
+      "composite": 62.0,
+      "dimensions": {
+        "offense": 56.2,
+        "defense": 69.7,
+        "spacing": 78.0,
+        "playmaking": 44.6,
+        "rebounding": 34.9,
+        "versatility": 84.8,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 44.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.9
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "ryan_nembhard_gonzaga",
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Ryan Nembhard",
+        "Graham Ike",
+        "Khalif Battle",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 61.3,
+      "dimensions": {
+        "offense": 55.4,
+        "defense": 69.7,
+        "spacing": 78.0,
+        "playmaking": 51.9,
+        "rebounding": 29.3,
+        "versatility": 72.8,
+        "balance": 76.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 29.3
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 61.3,
+      "dimensions": {
+        "offense": 56.3,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 3.6,
+        "rebounding": 45.7,
+        "versatility": 82.4,
+        "balance": 78.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 3.6
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 61.1,
+      "dimensions": {
+        "offense": 56.2,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 1.0,
+        "rebounding": 47.5,
+        "versatility": 82.4,
+        "balance": 76.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 1.0
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Michael Ajayi"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 56.1,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 48.4,
+        "versatility": 74.0,
+        "balance": 75.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 56.2,
+        "defense": 69.9,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 46.6,
+        "versatility": 74.0,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 46.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Khalif Battle",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 60.0,
+      "dimensions": {
+        "offense": 55.2,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 5.3,
+        "rebounding": 41.1,
+        "versatility": 70.4,
+        "balance": 77.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 5.3
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 55.2,
+        "defense": 69.8,
+        "spacing": 93.0,
+        "playmaking": 2.6,
+        "rebounding": 42.8,
+        "versatility": 70.4,
+        "balance": 75.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 2.6
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 56.7,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 4.6,
+        "rebounding": 49.2,
+        "versatility": 82.4,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 49.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.6
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 57.7,
+        "defense": 69.8,
+        "spacing": 78.0,
+        "playmaking": 2.6,
+        "rebounding": 48.2,
+        "versatility": 82.4,
+        "balance": 76.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 48.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 2.6
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 58.5,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 1.1,
+        "rebounding": 53.6,
+        "versatility": 70.4,
+        "balance": 76.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 1.1
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 59.5,
+        "defense": 70.0,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 59.2,
+        "versatility": 51.6,
+        "balance": 76.1
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.1
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga"
+      ],
+      "playerNames": [
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman",
+        "Braden Huff"
+      ],
+      "composite": 59.4,
+      "dimensions": {
+        "offense": 53.5,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 8.8,
+        "rebounding": 36.7,
+        "versatility": 82.4,
+        "balance": 66.2
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 36.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 8.8
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 59.3,
+      "dimensions": {
+        "offense": 54.4,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 6.8,
+        "rebounding": 35.6,
+        "versatility": 82.4,
+        "balance": 65.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 6.8
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "ben_gregg_gonzaga",
+        "nolan_hickman_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Ben Gregg",
+        "Nolan Hickman"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 53.5,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 6.1,
+        "rebounding": 38.4,
+        "versatility": 82.4,
+        "balance": 64.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 6.1
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "dusty_stromer_gonzaga",
+        "nolan_hickman_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Khalif Battle",
+        "Dusty Stromer",
+        "Nolan Hickman",
+        "Michael Ajayi"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 54.4,
+        "defense": 69.7,
+        "spacing": 93.0,
+        "playmaking": 4.1,
+        "rebounding": 37.4,
+        "versatility": 81.2,
+        "balance": 63.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 37.4
+        },
+        {
+          "dimension": "playmaking",
+          "score": 4.1
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "graham_ike_gonzaga",
+        "khalif_battle_gonzaga",
+        "ben_gregg_gonzaga",
+        "braden_huff_gonzaga",
+        "michael_ajayi_gonzaga"
+      ],
+      "playerNames": [
+        "Graham Ike",
+        "Khalif Battle",
+        "Ben Gregg",
+        "Braden Huff",
+        "Michael Ajayi"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 58.4,
+        "defense": 69.9,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 54.6,
+        "versatility": 62.0,
+        "balance": 75.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 75.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

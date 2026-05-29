@@ -14,12 +14,12 @@
       "jersey": "",
       "archetype": "Floor General",
       "skills": {
-        "scoring": 67.3,
-        "shooting": 74.0,
-        "playmaking": 79.4,
-        "defense": 22.0,
+        "scoring": 66.2,
+        "shooting": 71.4,
+        "playmaking": 77.5,
+        "defense": 22.1,
         "rebounding": 15.0,
-        "efficiency": 78.2
+        "efficiency": 77.0
       },
       "stats": {
         "ortg": 104.9,
@@ -60,12 +60,12 @@
       "jersey": "",
       "archetype": "Floor General",
       "skills": {
-        "scoring": 44.9,
-        "shooting": 59.6,
-        "playmaking": 68.8,
-        "defense": 38.1,
+        "scoring": 42.8,
+        "shooting": 56.7,
+        "playmaking": 66.6,
+        "defense": 38.7,
         "rebounding": 32.5,
-        "efficiency": 61.0
+        "efficiency": 62.6
       },
       "stats": {
         "ortg": 101.8,
@@ -106,12 +106,12 @@
       "jersey": "",
       "archetype": "3-and-D Wing",
       "skills": {
-        "scoring": 62.9,
-        "shooting": 82.4,
-        "playmaking": 46.2,
-        "defense": 21.8,
+        "scoring": 63.3,
+        "shooting": 79.8,
+        "playmaking": 45.2,
+        "defense": 22.0,
         "rebounding": 28.4,
-        "efficiency": 65.8
+        "efficiency": 67.4
       },
       "stats": {
         "ortg": 107.9,
@@ -152,12 +152,12 @@
       "jersey": "",
       "archetype": "Rim Protector",
       "skills": {
-        "scoring": 70.1,
-        "shooting": 44.1,
-        "playmaking": 21.1,
-        "defense": 25.6,
-        "rebounding": 69.3,
-        "efficiency": 64.1
+        "scoring": 71.6,
+        "shooting": 41.5,
+        "playmaking": 18.6,
+        "defense": 26.3,
+        "rebounding": 69.4,
+        "efficiency": 64.7
       },
       "stats": {
         "ortg": 109.2,
@@ -198,12 +198,12 @@
       "jersey": "",
       "archetype": "3-and-D Wing",
       "skills": {
-        "scoring": 28.8,
-        "shooting": 63.9,
-        "playmaking": 52.0,
-        "defense": 37.6,
+        "scoring": 25.8,
+        "shooting": 60.8,
+        "playmaking": 50.7,
+        "defense": 38.2,
         "rebounding": 14.3,
-        "efficiency": 37.9
+        "efficiency": 38.3
       },
       "stats": {
         "ortg": 100.8,
@@ -244,12 +244,12 @@
       "jersey": "",
       "archetype": "Floor General",
       "skills": {
-        "scoring": 28.5,
-        "shooting": 70.4,
-        "playmaking": 71.8,
-        "defense": 35.5,
-        "rebounding": 7.8,
-        "efficiency": 17.5
+        "scoring": 25.1,
+        "shooting": 67.0,
+        "playmaking": 68.5,
+        "defense": 36.0,
+        "rebounding": 7.7,
+        "efficiency": 16.2
       },
       "stats": {
         "ortg": 97.4,
@@ -290,12 +290,12 @@
       "jersey": "",
       "archetype": "Rebounder/Energy",
       "skills": {
-        "scoring": 57.4,
-        "shooting": 35.8,
-        "playmaking": 33.6,
-        "defense": 24.1,
-        "rebounding": 69.4,
-        "efficiency": 43.7
+        "scoring": 58.0,
+        "shooting": 32.8,
+        "playmaking": 32.0,
+        "defense": 24.7,
+        "rebounding": 69.5,
+        "efficiency": 43.1
       },
       "stats": {
         "ortg": 109.5,
@@ -336,12 +336,12 @@
       "jersey": "",
       "archetype": "Rebounder/Energy",
       "skills": {
-        "scoring": 21.8,
-        "shooting": 55.4,
-        "playmaking": 42.8,
-        "defense": 25.8,
-        "rebounding": 45.7,
-        "efficiency": 18.7
+        "scoring": 17.9,
+        "shooting": 51.6,
+        "playmaking": 41.7,
+        "defense": 26.1,
+        "rebounding": 45.9,
+        "efficiency": 18.1
       },
       "stats": {
         "ortg": 99.4,

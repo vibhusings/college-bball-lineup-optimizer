@@ -1,0 +1,2341 @@
+{
+  "teamId": "kentucky",
+  "teamName": "Kentucky",
+  "totalCombinations": 56,
+  "lineups": [
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr"
+      ],
+      "composite": 62.2,
+      "dimensions": {
+        "offense": 47.4,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 37.5,
+        "rebounding": 42.2,
+        "versatility": 98.0,
+        "balance": 87.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 42.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.5
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 49.7,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 37.1,
+        "rebounding": 41.1,
+        "versatility": 86.0,
+        "balance": 86.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.1
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea"
+      ],
+      "composite": 62.1,
+      "dimensions": {
+        "offense": 50.1,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 31.8,
+        "rebounding": 38.8,
+        "versatility": 98.0,
+        "balance": 87.8
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 98.0
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 38.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.8
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Kerr Kriisa"
+      ],
+      "composite": 61.2,
+      "dimensions": {
+        "offense": 40.0,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 57.7,
+        "rebounding": 39.8,
+        "versatility": 86.0,
+        "balance": 87.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 39.8
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 60.9,
+      "dimensions": {
+        "offense": 42.2,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 52.0,
+        "rebounding": 36.4,
+        "versatility": 86.0,
+        "balance": 87.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.2
+        },
+        {
+          "dimension": "rebounding",
+          "score": 36.4
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa"
+      ],
+      "composite": 60.6,
+      "dimensions": {
+        "offense": 42.1,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 37.8,
+        "rebounding": 42.4,
+        "versatility": 95.6,
+        "balance": 88.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.8
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Brandon Garrison"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 48.0,
+        "defense": 67.4,
+        "spacing": 78.0,
+        "playmaking": 32.8,
+        "rebounding": 55.5,
+        "versatility": 87.2,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "balance",
+          "score": 86.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.8
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 60.5,
+      "dimensions": {
+        "offense": 44.4,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 37.4,
+        "rebounding": 41.3,
+        "versatility": 83.6,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 41.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 37.4
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 40.0,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 52.4,
+        "rebounding": 37.5,
+        "versatility": 86.0,
+        "balance": 88.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 88.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 37.5
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 50.8,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 27.0,
+        "rebounding": 52.1,
+        "versatility": 87.2,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.3
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 27.0
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "playerIds": [
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 60.4,
+      "dimensions": {
+        "offense": 44.6,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 32.0,
+        "rebounding": 39.0,
+        "versatility": 95.6,
+        "balance": 88.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 95.6
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 39.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.0
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Brandon Garrison"
+      ],
+      "composite": 60.3,
+      "dimensions": {
+        "offense": 46.3,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 28.7,
+        "rebounding": 35.0,
+        "versatility": 99.2,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 99.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.7
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Koby Brea"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 49.6,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 36.4,
+        "rebounding": 33.9,
+        "versatility": 86.0,
+        "balance": 65.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 33.9
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Andrew Carr",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 48.7,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 28.4,
+        "rebounding": 33.9,
+        "versatility": 87.2,
+        "balance": 86.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 33.9
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.4
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 60.2,
+      "dimensions": {
+        "offense": 49.0,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 23.0,
+        "rebounding": 31.6,
+        "versatility": 99.2,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 99.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 31.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 23.0
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Kerr Kriisa"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 39.9,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 57.0,
+        "rebounding": 32.6,
+        "versatility": 86.0,
+        "balance": 77.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 39.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.6
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Brandon Garrison"
+      ],
+      "composite": 59.8,
+      "dimensions": {
+        "offense": 48.3,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 27.4,
+        "rebounding": 53.2,
+        "versatility": 87.2,
+        "balance": 87.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 48.3
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.4
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 59.7,
+      "dimensions": {
+        "offense": 42.0,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 56.6,
+        "rebounding": 31.5,
+        "versatility": 74.0,
+        "balance": 77.0
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.0
+        },
+        {
+          "dimension": "rebounding",
+          "score": 31.5
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 59.5,
+      "dimensions": {
+        "offense": 42.1,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 51.2,
+        "rebounding": 29.2,
+        "versatility": 86.0,
+        "balance": 77.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 86.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.2
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 59.2,
+      "dimensions": {
+        "offense": 38.7,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 49.0,
+        "rebounding": 32.6,
+        "versatility": 87.2,
+        "balance": 86.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.7
+        },
+        {
+          "dimension": "rebounding",
+          "score": 32.6
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Brandon Garrison"
+      ],
+      "composite": 59.1,
+      "dimensions": {
+        "offense": 47.8,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 32.0,
+        "rebounding": 48.2,
+        "versatility": 87.2,
+        "balance": 76.9
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 47.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.0
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 50.2,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 31.6,
+        "rebounding": 47.2,
+        "versatility": 75.2,
+        "balance": 76.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 47.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.6
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 50.6,
+        "defense": 67.2,
+        "spacing": 78.0,
+        "playmaking": 26.2,
+        "rebounding": 44.8,
+        "versatility": 87.2,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 44.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.2
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 59.0,
+      "dimensions": {
+        "offense": 40.9,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 43.2,
+        "rebounding": 29.2,
+        "versatility": 87.2,
+        "balance": 87.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.9
+        },
+        {
+          "dimension": "rebounding",
+          "score": 29.2
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.8,
+      "dimensions": {
+        "offense": 42.6,
+        "defense": 67.4,
+        "spacing": 78.0,
+        "playmaking": 33.0,
+        "rebounding": 55.7,
+        "versatility": 84.8,
+        "balance": 87.1
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 87.1
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 33.0
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "playerIds": [
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.7,
+      "dimensions": {
+        "offense": 45.1,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 27.2,
+        "rebounding": 52.2,
+        "versatility": 84.8,
+        "balance": 88.4
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 88.4
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 45.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.2
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.6,
+      "dimensions": {
+        "offense": 40.9,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 29.0,
+        "rebounding": 35.2,
+        "versatility": 96.8,
+        "balance": 87.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 35.2
+        },
+        {
+          "dimension": "playmaking",
+          "score": 29.0
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 58.5,
+      "dimensions": {
+        "offense": 44.3,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 36.6,
+        "rebounding": 34.0,
+        "versatility": 83.6,
+        "balance": 65.4
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 83.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 36.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 34.0
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.5,
+      "dimensions": {
+        "offense": 43.2,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 28.6,
+        "rebounding": 34.1,
+        "versatility": 84.8,
+        "balance": 86.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 86.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 34.1
+        },
+        {
+          "dimension": "playmaking",
+          "score": 28.6
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "playerIds": [
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.5,
+      "dimensions": {
+        "offense": 43.3,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 23.2,
+        "rebounding": 31.8,
+        "versatility": 96.8,
+        "balance": 88.4
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 96.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 31.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 23.2
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.4,
+      "dimensions": {
+        "offense": 38.6,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 43.6,
+        "rebounding": 30.3,
+        "versatility": 87.2,
+        "balance": 87.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 87.6
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 30.3
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 58.3,
+      "dimensions": {
+        "offense": 48.5,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 27.6,
+        "rebounding": 26.7,
+        "versatility": 87.2,
+        "balance": 64.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 27.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 26.7
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 40.3,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 47.6,
+        "rebounding": 50.8,
+        "versatility": 75.2,
+        "balance": 77.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 47.6
+        },
+        {
+          "dimension": "offense",
+          "score": 40.3
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 52.2,
+        "defense": 67.1,
+        "spacing": 93.0,
+        "playmaking": 0,
+        "rebounding": 43.7,
+        "versatility": 81.2,
+        "balance": 65.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.7
+        },
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "playerIds": [
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.1,
+      "dimensions": {
+        "offense": 42.6,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 27.6,
+        "rebounding": 53.3,
+        "versatility": 84.8,
+        "balance": 88.7
+      },
+      "strengths": [
+        {
+          "dimension": "balance",
+          "score": 88.7
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.6
+        },
+        {
+          "dimension": "playmaking",
+          "score": 27.6
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Amari Williams",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 40.3,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 52.3,
+        "rebounding": 45.9,
+        "versatility": 75.2,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.9
+        },
+        {
+          "dimension": "offense",
+          "score": 40.3
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "playerIds": [
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 58.0,
+      "dimensions": {
+        "offense": 53.4,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 54.6,
+        "versatility": 82.4,
+        "balance": 78.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 82.4
+        },
+        {
+          "dimension": "balance",
+          "score": 78.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Koby Brea"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 48.1,
+        "defense": 61.9,
+        "spacing": 100.0,
+        "playmaking": 33.1,
+        "rebounding": 20.7,
+        "versatility": 84.8,
+        "balance": 64.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 33.1
+        },
+        {
+          "dimension": "rebounding",
+          "score": 20.7
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 38.6,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 48.2,
+        "rebounding": 25.4,
+        "versatility": 87.2,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.6
+        },
+        {
+          "dimension": "rebounding",
+          "score": 25.4
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.8,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 67.2,
+        "spacing": 78.0,
+        "playmaking": 46.5,
+        "rebounding": 42.5,
+        "versatility": 75.2,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 42.5
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.7,
+      "dimensions": {
+        "offense": 40.8,
+        "defense": 67.0,
+        "spacing": 93.0,
+        "playmaking": 47.9,
+        "rebounding": 24.3,
+        "versatility": 75.2,
+        "balance": 76.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 24.3
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.6,
+      "dimensions": {
+        "offense": 40.8,
+        "defense": 66.9,
+        "spacing": 93.0,
+        "playmaking": 42.5,
+        "rebounding": 22.0,
+        "versatility": 87.2,
+        "balance": 77.3
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 93.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 87.2
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.8
+        },
+        {
+          "dimension": "rebounding",
+          "score": 22.0
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Andrew Carr",
+        "Koby Brea",
+        "Brandon Garrison"
+      ],
+      "composite": 57.5,
+      "dimensions": {
+        "offense": 52.9,
+        "defense": 67.4,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 57.0,
+        "versatility": 70.4,
+        "balance": 76.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Kerr Kriisa"
+      ],
+      "composite": 57.4,
+      "dimensions": {
+        "offense": 38.4,
+        "defense": 61.9,
+        "spacing": 100.0,
+        "playmaking": 53.7,
+        "rebounding": 19.4,
+        "versatility": 84.8,
+        "balance": 77.6
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 38.4
+        },
+        {
+          "dimension": "rebounding",
+          "score": 19.4
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "andrew_carr_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Andrew Carr",
+        "Brandon Garrison"
+      ],
+      "composite": 57.4,
+      "dimensions": {
+        "offense": 50.4,
+        "defense": 67.4,
+        "spacing": 78.0,
+        "playmaking": 0,
+        "rebounding": 58.0,
+        "versatility": 81.2,
+        "balance": 77.1
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 81.2
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "playmaking",
+          "score": 0
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.4,
+      "dimensions": {
+        "offense": 42.5,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 32.2,
+        "rebounding": 48.4,
+        "versatility": 84.8,
+        "balance": 77.2
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 42.5
+        },
+        {
+          "dimension": "playmaking",
+          "score": 32.2
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "playerIds": [
+        "otega_oweh_kentucky",
+        "amari_williams_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Otega Oweh",
+        "Amari Williams",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.4,
+      "dimensions": {
+        "offense": 44.8,
+        "defense": 67.3,
+        "spacing": 78.0,
+        "playmaking": 31.9,
+        "rebounding": 47.3,
+        "versatility": 72.8,
+        "balance": 76.8
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.8
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 44.8
+        },
+        {
+          "dimension": "playmaking",
+          "score": 31.9
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "otega_oweh_kentucky",
+        "andrew_carr_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Otega Oweh",
+        "Andrew Carr",
+        "Koby Brea",
+        "Kerr Kriisa"
+      ],
+      "composite": 57.3,
+      "dimensions": {
+        "offense": 40.5,
+        "defense": 61.9,
+        "spacing": 100.0,
+        "playmaking": 53.4,
+        "rebounding": 18.3,
+        "versatility": 72.8,
+        "balance": 76.9
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 100.0
+        },
+        {
+          "dimension": "balance",
+          "score": 76.9
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "offense",
+          "score": 40.5
+        },
+        {
+          "dimension": "rebounding",
+          "score": 18.3
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "playerIds": [
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "koby_brea_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Koby Brea",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.3,
+      "dimensions": {
+        "offense": 45.0,
+        "defense": 67.2,
+        "spacing": 78.0,
+        "playmaking": 26.5,
+        "rebounding": 45.0,
+        "versatility": 84.8,
+        "balance": 78.3
+      },
+      "strengths": [
+        {
+          "dimension": "versatility",
+          "score": 84.8
+        },
+        {
+          "dimension": "balance",
+          "score": 78.3
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 45.0
+        },
+        {
+          "dimension": "playmaking",
+          "score": 26.5
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "playerIds": [
+        "lamont_butler_kentucky",
+        "amari_williams_kentucky",
+        "jaxson_robinson_kentucky",
+        "kerr_kriisa_kentucky",
+        "brandon_garrison_kentucky"
+      ],
+      "playerNames": [
+        "Lamont Butler",
+        "Amari Williams",
+        "Jaxson Robinson",
+        "Kerr Kriisa",
+        "Brandon Garrison"
+      ],
+      "composite": 57.2,
+      "dimensions": {
+        "offense": 40.2,
+        "defense": 67.2,
+        "spacing": 78.0,
+        "playmaking": 46.9,
+        "rebounding": 43.5,
+        "versatility": 75.2,
+        "balance": 77.7
+      },
+      "strengths": [
+        {
+          "dimension": "spacing",
+          "score": 78.0
+        },
+        {
+          "dimension": "balance",
+          "score": 77.7
+        }
+      ],
+      "weaknesses": [
+        {
+          "dimension": "rebounding",
+          "score": 43.5
+        },
+        {
+          "dimension": "offense",
+          "score": 40.2
+        }
+      ],
+      "rank": 50
+    }
+  ]
+}

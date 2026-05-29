@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-05-28T17:45:33Z",
+  "generatedAt": "2026-05-29T05:40:39Z",
   "season": "2024-25",
   "teams": [
+    {
+      "teamId": "alabama",
+      "teamName": "Alabama",
+      "playerCount": 8,
+      "topLineupScore": 60.4
+    },
     {
       "teamId": "auburn",
       "teamName": "Auburn",
@@ -21,6 +27,12 @@
       "topLineupScore": 64.6
     },
     {
+      "teamId": "gonzaga",
+      "teamName": "Gonzaga",
+      "playerCount": 8,
+      "topLineupScore": 66.0
+    },
+    {
       "teamId": "houston",
       "teamName": "Houston",
       "playerCount": 8,
@@ -33,10 +45,22 @@
       "topLineupScore": 59.8
     },
     {
+      "teamId": "kentucky",
+      "teamName": "Kentucky",
+      "playerCount": 8,
+      "topLineupScore": 62.2
+    },
+    {
       "teamId": "marquette",
       "teamName": "Marquette",
       "playerCount": 8,
       "topLineupScore": 63.4
+    },
+    {
+      "teamId": "michigan_st",
+      "teamName": "Michigan St",
+      "playerCount": 8,
+      "topLineupScore": 61.6
     },
     {
       "teamId": "purdue",
