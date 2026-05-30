@@ -1,11 +1,25 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
-import { TeamData, TeamLineups } from "@/types";
+import { TeamData, TeamLineups, Manifest } from "@/types";
 import TeamDashboard from "./TeamDashboard";
 
 interface PageProps {
   params: Promise<{ teamId: string }>;
+}
+
+// Pre-render every team page at build time so data files are read during the
+// build (not at request time). This keeps the pages fully static and avoids
+// serverless filesystem issues on Vercel.
+export function generateStaticParams() {
+  const manifestPath = path.join(
+    process.cwd(),
+    "public",
+    "data",
+    "manifest.json"
+  );
+  const manifest: Manifest = JSON.parse(fs.readFileSync(manifestPath, "utf-8"));
+  return manifest.teams.map((team) => ({ teamId: team.teamId }));
 }
 
 async function getTeamData(teamId: string): Promise<{
