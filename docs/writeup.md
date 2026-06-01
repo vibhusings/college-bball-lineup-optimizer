@@ -1,5 +1,8 @@
 # College Basketball Lineup Optimizer — Project Write-Up
 
+**Live demo:** https://college-bball-lineup-optimizer.vercel.app/
+**Source code:** https://github.com/vibhusings/college-bball-lineup-optimizer
+
 ## Problem Statement
 
 College basketball coaching staffs face a combinatorial challenge in rotation planning. With 8-12 rotation players on a typical roster, there are **56-792 possible 5-man lineup combinations** -- far too many to evaluate through film study and intuition alone. Coaches need a data-driven tool to:
@@ -15,9 +18,9 @@ This tool solves the problem by scoring every possible 5-man combination across 
 
 **Primary Source: Publicly Available Box Score Statistics (2024-25 Season)**
 
-Player-level per-game statistics were sourced from public box score data for 10 top Division I programs:
+Player-level per-game statistics were sourced from public box score data for 14 top Division I programs:
 
-- Duke, Auburn, Houston, Tennessee, Florida, UConn, Kansas, Purdue, Marquette, St. John's
+- Alabama, Auburn, Duke, Florida, Gonzaga, Houston, Kansas, Kentucky, Marquette, Michigan State, Purdue, St. John's, Tennessee, UConn
 
 **Basic stats collected per player:**
 - Points, rebounds, assists, steals, blocks per game
@@ -49,7 +52,7 @@ seed_data.py  -->  player_profiler.py  -->  lineup_scorer.py
                       vectors)                 lineup scoring)
 ```
 
-1. **Seed Data Generator**: Provides baseline box score data for 82 players across 10 teams
+1. **Seed Data Generator**: Provides baseline box score data for 114 players across 14 teams
 2. **Player Profiler**: Classifies each player into one of 8 archetypes (Floor General, Rim Protector, 3-and-D Wing, etc.) and computes a 6-dimension skill vector for radar chart visualization
 3. **Lineup Scorer**: Evaluates all C(n,5) combinations per team across 7 weighted dimensions
 
@@ -79,7 +82,7 @@ Each 5-man lineup is scored on a 0-100 composite scale:
 | Component | Technology |
 |-----------|-----------|
 | Data Pipeline | Python 3, pandas, NumPy |
-| Web Framework | Next.js 14 (App Router) |
+| Web Framework | Next.js 16 (App Router) |
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | Charts | Recharts |
